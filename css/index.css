@@ -22,25 +22,22 @@ body {
 }
 
 .navigation{
-	margin-left: 40%;
-	width: 30%;
+	float: left;
+	margin-left: 30%;
+	width: 20%;
 	height: 50px;
 	background-color: white;
 }
-.man_na ul {
+ul.menu_nav, li.menu_nav{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
-
-.man_na li {
-    float: left;
+.menu_nav{
+	float: left;
 }
-
-
-
-.nav a:link, .nav a:visited{
+.menu_nav a:link, .menu_nav a:visited{
 	display: block;
     width: 120px;
     font-weight: bold;
@@ -51,5 +48,18 @@ body {
     text-decoration: none;
     text-transform: uppercase;}
 
-.nav a:hover, .nav a:active {
-    background-color: #7A991A;
+.menu_nav a:hover, .menu_nav a:active {
+    background-color: #7A991A;}
+
+
+.map{
+	text-align: center;
+	margin-right:40%;
+}
+#map_img{
+	margin-top: 100px;
+}
+
+#nz_map{
+	margin-left: -120px;
+}

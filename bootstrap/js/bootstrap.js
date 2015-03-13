@@ -2279,10 +2279,6 @@
 
 }(window.jQuery);
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 7f91d6876370cc8055d6368704ea8e327a64578e
 /*Insert mouse hover Dropbox*/
    $(function(){
     $(".dropdown").hover(            
