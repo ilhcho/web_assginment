@@ -6,10 +6,10 @@
   	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- css -->
 	<link rel="stylesheet" type="text/css" href="css/index.css">
-	<!-- <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet"> -->
+	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 	<!-- jQuery CDN -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<!-- <script src="bootstrap/js/bootstrap.min.js"></script>-->
+	<script src="bootstrap/js/bootstrap.js"></script>
  </head>
 
  <body>

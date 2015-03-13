@@ -27,14 +27,14 @@ body {
 	height: 50px;
 	background-color: white;
 }
-ul {
+.man_na ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-li {
+.man_na li {
     float: left;
 }
 
