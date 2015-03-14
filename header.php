@@ -5,7 +5,7 @@
     <meta charset="utf-8" />    
   	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- css -->
-	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/index.css" media="all">
 	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 	<!-- jQuery CDN -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
