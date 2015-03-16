@@ -63,39 +63,50 @@ require_once("header.php");
 			</ul>
 		</div>
 	</div>
-
-<div id="wrap">
-	<div id="window"><img src="img/gallery/central/big_central-otago.jpg" alt="" /></div>
-		<ul id="nav_gallery">
-			<!-- Central Otago -->
-			<li><a href="img/gallery/central/big_central-otago.jpg" class="active"><img src="img/gallery/central/small_central-otago.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/central/big_central_wine.jpg"><img src="img/gallery/central/small_central_wine.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/central/big_central_ski.jpg"><img src="img/gallery/central/small_central_ski.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/central/big_central_southern_edge.jpg"><img src="img/gallery/central/small_central_southern_edge.jpg" alt="" /></a></li>
-			<!-- Dunedin -->
-			<li><a href="img/gallery/dunedin/big_castle.jpg"><img src="img/gallery/dunedin/small_castle.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/dunedin/big_street.jpg"><img src="img/gallery/dunedin/small_street.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/dunedin/big_museum.jpg"><img src="img/gallery/dunedin/small_museum.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/dunedin/big_garden.jpg"><img src="img/gallery/dunedin/small_garden.jpg" alt="" /></a></li>
-			<!-- North Otago -->
-			<li><a href="img/gallery/north/big_matanaka.jpg"><img src="img/gallery/north/small_matanaka.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/north/big_moeraki.jpg"><img src="img/gallery/north/small_moeraki.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/north/big_elephant.jpg"><img src="img/gallery/north/small_elephant.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/north/big_fleurs_place.jpg"><img src="img/gallery/north/small_fleurs_place.jpg" alt="" /></a></li>
-			<!-- Queenstown -->			
-			<li><a href="img/gallery/queens/big_flights.jpg"><img src="img/gallery/queens/small_flights.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/queens/big_Lake_Wakatipu.jpg"><img src="img/gallery/queens/small_Lake_Wakatipu.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/queens/big_sound.jpg"><img src="img/gallery/queens/small_sound.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/queens/big_horses.jpg"><img src="img/gallery/queens/small_horses.jpg" alt="" /></a></li>
-			<!-- catlins -->			
-			<li><a href="img/gallery/catlins/big_cathedral.jpg"><img src="img/gallery/catlins/small_cathedral.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/catlins/big_lake-wilkie.jpg"><img src="img/gallery/catlins/small_lake-wilkie.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/catlins/big_nugget.jpg"><img src="img/gallery/catlins/small_nugget.jpg" alt="" /></a></li>
-			<li><a href="img/gallery/catlins/big_water.jpg"><img src="img/gallery/catlins/small_water.jpg" alt="" /></a></li>
-		</ul>
-		
+</div>	
+	<div class="middle">
+		<div class="middle_container">
+			<ul>
+				<li>Accomodation</li>
+				<li>Activity</li>
+				<li>Attraction</li>
+				<li>Restuarant</li>
+			</ul>
+		</div>
 	</div>
 
+<div class="img_gallery">
+	<div id="wrap">
+		<div id="window"><img src="img/gallery/central/big_central-otago.jpg" alt="" /></div>
+			<ul id="nav_gallery">
+				<!-- Central Otago -->
+				<li><a href="img/gallery/central/big_central-otago.jpg" class="active"><img src="img/gallery/central/small_central-otago.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/central/big_central_wine.jpg"><img src="img/gallery/central/small_central_wine.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/central/big_central_ski.jpg"><img src="img/gallery/central/small_central_ski.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/central/big_central_southern_edge.jpg"><img src="img/gallery/central/small_central_southern_edge.jpg" alt="" /></a></li>
+				<!-- Dunedin -->
+				<li><a href="img/gallery/dunedin/big_castle.jpg"><img src="img/gallery/dunedin/small_castle.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/dunedin/big_street.jpg"><img src="img/gallery/dunedin/small_street.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/dunedin/big_museum.jpg"><img src="img/gallery/dunedin/small_museum.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/dunedin/big_garden.jpg"><img src="img/gallery/dunedin/small_garden.jpg" alt="" /></a></li>
+				<!-- North Otago -->
+				<li><a href="img/gallery/north/big_matanaka.jpg"><img src="img/gallery/north/small_matanaka.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/north/big_moeraki.jpg"><img src="img/gallery/north/small_moeraki.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/north/big_elephant.jpg"><img src="img/gallery/north/small_elephant.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/north/big_fleurs_place.jpg"><img src="img/gallery/north/small_fleurs_place.jpg" alt="" /></a></li>
+				<!-- Queenstown -->			
+				<li><a href="img/gallery/queens/big_flights.jpg"><img src="img/gallery/queens/small_flights.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/queens/big_Lake_Wakatipu.jpg"><img src="img/gallery/queens/small_Lake_Wakatipu.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/queens/big_sound.jpg"><img src="img/gallery/queens/small_sound.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/queens/big_horses.jpg"><img src="img/gallery/queens/small_horses.jpg" alt="" /></a></li>
+				<!-- catlins -->			
+				<li><a href="img/gallery/catlins/big_cathedral.jpg"><img src="img/gallery/catlins/small_cathedral.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/catlins/big_lake-wilkie.jpg"><img src="img/gallery/catlins/small_lake-wilkie.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/catlins/big_nugget.jpg"><img src="img/gallery/catlins/small_nugget.jpg" alt="" /></a></li>
+				<li><a href="img/gallery/catlins/big_water.jpg"><img src="img/gallery/catlins/small_water.jpg" alt="" /></a></li>
+			</ul>		
+	</div>
+</div>
 	<script type="text/javascript">
 		$(document).ready(function(){
 			$('#nav_gallery a').mouseover(function(e){
@@ -108,8 +119,8 @@ require_once("header.php");
 			})
 	</script>
 
-	
-</div>
+<div class="footer"></div>	
+
 
 <?php
 require_once("footer.php");
