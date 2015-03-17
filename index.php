@@ -66,12 +66,30 @@ require_once("header.php");
 </div>	
 	<div class="middle">
 		<div class="middle_container">
-			<ul>
-				<li>Accomodation</li>
-				<li>Activity</li>
-				<li>Attraction</li>
-				<li>Restuarant</li>
-			</ul>
+			<div class="middle_box">
+			<br />
+			<br />
+			<br />
+
+				<div class="box">
+					<img src="img/icons/accomodation.png" alt="accomodation_icon" />
+					<h3>Accomodation</h3>
+				</div>
+				<div class="box" id="box_activity">
+					<img src="img/icons/activity.png" alt="activity_icon" />
+					
+					<h3>Activity</h3>
+				</div>
+				<div class="box">
+					<img src="img/icons/mountain.png" alt="mountain_icon" />
+					<h3>Attraction</h3>
+				</div>
+				<div class="box">
+					<img src="img/icons/restaurant.png" alt="restaurant_icon" />
+					<h3>Restaurant</h3>
+				</div>
+			</div>
+
 		</div>
 	</div>
 
