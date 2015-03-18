@@ -10,8 +10,7 @@ require_once("header.php");
 			<div class="logo">
 			<a href="#"><img src="img/logo/NZ_logo.png" alt="New Zealnd Flag"></a>
 			</div>
-
-			<div class="navigation">		
+			<div class="navigation">				
 				<div class="dropdown">
 					<li class="menu_nav">
 		  			<a class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#" href="/page.html">
