@@ -46,19 +46,11 @@ require_once("header.php");
 			<br />
 			<ul>
 				<li>Country: New Zealand</li>
-				<li>Climate:</li>
-				<li>Location:</li>				
-				<li>Population:
-					<ul>
-						<li>Region 211,700</li>
-						<li>Density	6.8/km2 (18/sq mi)</li>
-					</ul>					
-				</li>
-				<li>Event:Weather conditions vary enormously
-				 across Otago, but can be broken into two 
-				 broad types: the coastal climate of the c
-				 oastal regions and the more continental climate of the interior.
-				</li>
+				<li>Location: South Island</li>				
+				<li>Population: 211,700(2014 estimate)</li>
+				<li>Area: 31,241 km2(12% of NZ)</li>
+				<li>Climate:Vary across Otago</li>
+				<img src="img/climate.png" alt="climate chart">
 			</ul>
 		</div>
 	</div>
@@ -124,17 +116,6 @@ require_once("header.php");
 			</ul>		
 	</div>
 </div>
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$('#nav_gallery a').mouseover(function(e){
-				e.preventDefault();
-				$('#nav_gallery a').removeClass('active');
-				$(this).addClass('active');
-				img_url = $(this).attr('href');
-				$('#window img').attr('src',img_url);
-				});
-			})
-	</script>
 
 <div class="footer"></div>	
 

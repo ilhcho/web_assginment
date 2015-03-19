@@ -7,7 +7,7 @@
 	<!-- css -->
 	<link rel="stylesheet" type="text/css" href="css/index.css" media="all">
 	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-	
+
  </head>
 
  <body>
