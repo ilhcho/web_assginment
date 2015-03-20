@@ -14,7 +14,7 @@ require_once("header.php");
 				<div class="dropdown">
 					<li class="menu_nav">
 		  			<a class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#" href="/page.html">
-		    		Interest
+		    		Regions
 		    		<b class="caret"></b>
 		  			</a>
 		 			</li>
@@ -44,14 +44,28 @@ require_once("header.php");
 			<h1>Otago</h1>
 			<br />
 			<br />
-			<ul>
-				<li>Country: New Zealand</li>
-				<li>Location: South Island</li>				
-				<li>Population: 211,700(2014 estimate)</li>
-				<li>Area: 31,241 km2(12% of NZ)</li>
-				<li>Climate:Vary across Otago</li>
-				<img src="img/climate.png" alt="climate chart">
-			</ul>
+			<table>
+				<tr>
+					<td>Country:</td>
+					<td> New Zealand</td>
+				</tr>
+				<tr>
+					<td>Location:</td>
+					<td>South Island</td>
+				</tr>
+				<tr>
+					<td>Area:</td>
+					<td>31,241 km2(12% of NZ)</td>
+				</tr>
+				<tr>
+					<td>Population:</td>
+					<td>211,700(2014 estimate)</td>
+				</tr>
+			</table>
+			<br />
+			
+				<img src="img/climate_real.png" alt="climate chart">
+			
 		</div>
 	</div>
 </div>	
@@ -117,7 +131,39 @@ require_once("header.php");
 	</div>
 </div>
 
-<div class="footer"></div>	
+<div class="footer">
+	<div class="container contaier_footer">
+	<div class="row">
+      <div class="footer_content">
+        <h3 class="footer_title">Regions</h3>
+        <ul>
+          <li><a href="#">Central Otago</a></li>
+          <li><a href="#">Dunedin</a></li>
+          <li><a href="#">North Otago</a></li>
+          <li><a href="#/">Queenstown</a></li>
+          <li><a href="#/">The Catlins</a></li>
+        </ul>
+      </div>
+      <div class="footer_content">
+        <h3 class="footer_title">Interest</h3>
+        <ul>
+          <li><a href="#">Activity</a></li>
+          <li><a href="#">Attraction</a></li>
+          <li><a href="#">Event</a></li>
+         </ul>
+      </div>
+      <div class="footer_content">
+        <h3 class="footer_title">Information</h3>
+        <ul>
+          <li><a href="#">Accomodation</a></li>
+          <li><a href="#">Restaurant</a></li>
+          <li><a href="#">Going to Otago</a></li>
+         </ul>
+      </div>
+   
+
+	</div>
+</div>	
 
 
 <?php
