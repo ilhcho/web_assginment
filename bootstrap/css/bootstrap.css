@@ -2279,6 +2279,7 @@ table th[class*="span"],
 }
 
 .collapse {
+  
   position: relative;
   height: 0;
   overflow: hidden;
@@ -2288,6 +2289,15 @@ table th[class*="span"],
           transition: height 0.35s ease;
 }
 
+.navbar-collapse{
+  height: 50px;
+  max-height: 340px;
+  overflow-x: visible;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-top: 1px solid transparent;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
+}
 .collapse.in {
   height: auto;
 }
@@ -3694,7 +3704,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-static-top .container,
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
-  width: 940px;
+  width: 1170px;
 }
 
 .navbar-fixed-top {
@@ -3737,10 +3747,13 @@ input[type="submit"].btn.btn-mini {
 
 .navbar .nav > li > a {
   float: none;
-  padding: 10px 15px 10px;
-  color: #777777;
+  font-size: 20px;
+  padding: 15px 15px 10px;
+  font-weight: bold;  
+  color: white;
   text-decoration: none;
-  text-shadow: 0 1px 0 #ffffff;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;}
+  
 }
 
 .navbar .nav .dropdown-toggle .caret {
@@ -3749,17 +3762,22 @@ input[type="submit"].btn.btn-mini {
 
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
-  color: #333333;
+color: white;
+  height: 24px;
   text-decoration: none;
-  background-color: transparent;
+  background-color: #3E89DD;
+  -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+     -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+          box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
 }
 
 .navbar .nav > .active > a,
 .navbar .nav > .active > a:hover,
 .navbar .nav > .active > a:focus {
-  color: #555555;
+  color: white;
+  height: 24px;
   text-decoration: none;
-  background-color: #e5e5e5;
+  background-color: #3E89DD;
   -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
      -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
           box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
