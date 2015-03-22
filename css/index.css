@@ -40,8 +40,8 @@ body {
 .navigation{	
 	top:0;
 	float: right;
-	width: 240px;
-	margin-top: 1%;
+	width: 300px;
+
 }
 ul.menu_nav, li.menu_nav{
     list-style-type: none;
@@ -61,6 +61,7 @@ ul.menu_nav, li.menu_nav{
     text-align: center;
     font-size: 20px;    
     text-decoration: none;
+    padding: 15px 15px 10px;
    /* text-transform: uppercase;*/}
 
 .menu_nav a:hover, .menu_nav a:active {
