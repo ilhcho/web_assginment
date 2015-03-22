@@ -7,9 +7,10 @@
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="img/logo/favicon.ico">
 	<!-- css -->
-	<link rel="stylesheet" type="text/css" href="css/index.css" media="all">
-	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-	<link href="css/js-image-slider.css" rel="stylesheet" type="text/css" />   
+	<link href="css/index.css" rel="stylesheet" type="text/css" media="all">
+	<link href="bootstrap/css/bootstrap.css" rel="stylesheet" media="all">
+	<link href="css/js-image-slider.css" rel="stylesheet" type="text/css" media="all">  
+	<link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" media="all"> 
   
  </head>
 
