@@ -1,0 +1,14 @@
+.main_img
+{width: 100%;
+height: 640px;
+opacity: 0.8;}
+
+.container_middle{
+	text-align: center;
+	height: 100%;
+}
+
+.infor_box{
+	padding-top: 50px;
+}
+

@@ -20,10 +20,10 @@ require_once("header.php");
 		 			</li>
 					  	<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
 						    <li><a tabindex="-1" href="central_otago.php">Central Otago</a></li>
-						    <li><a tabindex="-1" href="#">Dunedin</a></li>
-						    <li><a tabindex="-1" href="#">North Otago</a></li>
-						    <li><a tabindex="-1" href="#">Queenstown</a></li>
-						    <li><a tabindex="-1" href="#">The Catlins</a></li>
+						    <li><a tabindex="-1" href="dunedin.php">Dunedin</a></li>
+						    <li><a tabindex="-1" href="north_otago.php">North Otago</a></li>
+						    <li><a tabindex="-1" href="queenstown.php">Queenstown</a></li>
+						    <li><a tabindex="-1" href="catlins.php">The Catlins</a></li>
 					  	</ul>	
 				</div>
 				
