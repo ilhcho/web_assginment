@@ -19,11 +19,11 @@ require_once("header.php");
 		  			</a>
 		 			</li>
 					  	<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-						    <li><a tabindex="-1" href="central_otago.php">Central Otago</a></li>
-						    <li><a tabindex="-1" href="dunedin.php">Dunedin</a></li>
-						    <li><a tabindex="-1" href="north_otago.php">North Otago</a></li>
-						    <li><a tabindex="-1" href="queenstown.php">Queenstown</a></li>
-						    <li><a tabindex="-1" href="catlins.php">The Catlins</a></li>
+						    <li><a tabindex="-1" href="regions.php?id=central">Central Otago</a></li>
+						    <li><a tabindex="-1" href="regions.php?id=dunedin">Dunedin</a></li>
+						    <li><a tabindex="-1" href="regions.php?id=north">North Otago</a></li>
+						    <li><a tabindex="-1" href="regions.php?id=queens">Queenstown</a></li>
+						    <li><a tabindex="-1" href="regions.php?id=catlins">The Catlins</a></li>
 					  	</ul>	
 				</div>
 				
@@ -34,8 +34,8 @@ require_once("header.php");
 
 	<!-- Main content - map -->
 	<div class="map">		
-		<img id="map_img" src="img/map/south5.png" alt="south island map">
-		<img id="nz_map" src="img/map/nz_map3.png" alt="New Zealand Map">
+		<img id="map_img" src="img/map/south6.png" alt="south island map">
+		<img id="nz_map" src="img/map/nz_map4.png" alt="New Zealand Map">
 		<div class="description">
 		<br />
 		<br />

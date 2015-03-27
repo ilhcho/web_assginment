@@ -4,11 +4,11 @@
       <div class="footer_content">
         <h3 class="footer_title">Regions</h3>
         <ul>
-          <li><a href="#">Central Otago</a></li>
-          <li><a href="#">Dunedin</a></li>
-          <li><a href="#">North Otago</a></li>
-          <li><a href="#/">Queenstown</a></li>
-          <li><a href="#/">The Catlins</a></li>
+          <li><a href="regions.php?id=central">Central Otago</a></li>
+          <li><a href="regions.php?id=dunedin">Dunedin</a></li>
+          <li><a href="regions.php?id=north">North Otago</a></li>
+          <li><a href="regions.php?id=queens">Queenstown</a></li>
+          <li><a href="regions.php?id=catlins">The Catlins</a></li>
         </ul>
       </div>
       <div class="footer_content">
@@ -46,6 +46,25 @@
 			})
 	</script>
  	<script src="js/js-image-slider.js" type="text/javascript"></script>
+
+<!-- Scroll to -->
+<script type="text/javascript">
+  $('a[href^="#"]').on('click', function(event) {
+
+    var target = $( $(this).attr('href') );
+
+    if( target.length ) {
+        event.preventDefault();
+        $('html, body').animate({
+            scrollTop: target.offset().top
+        }, 1000);
+    }
+
+});
+
+
+</script>
+
 </body>
 
  </html>
