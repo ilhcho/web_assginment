@@ -10,6 +10,7 @@ opacity: 0.8;}
 
 .infor_box{
 	padding-top: 50px;
+
 }
 
 .acco_box{
@@ -33,4 +34,40 @@ opacity: 0.8;}
 .aaco_sub h4{
 	text-align: left;
 	margin-top: 5px;
+}
+
+.act_box{
+	text-align: left;
+	width: 100%;
+	height: 510px;	
+	margin: 2% 0;
+}
+
+iframe{
+	width: 70%;
+	height: 510px;
+
+}
+
+.act_description{
+	float: right;
+	width: 30%;
+	height: 510px;	
+	text-align: center;
+}
+.bicycle_des{
+	margin-left: 4%;
+	text-align: left;
+}
+.ac_table{
+	margin-top: 10px;
+}
+.ac_table td{
+	padding-top: 5px;
+}
+
+.bike{
+	margin-top: 15px;
+	width: 100%;
+	height: 80%;
 }

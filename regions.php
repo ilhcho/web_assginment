@@ -63,16 +63,47 @@ require_once("regions_navi.php");
       </div>    
 
     </div></a>
-
-    <a id="activity"><div class="infor_box">
+ <a id="activity">
+  <div class="infor_box">
     <h3>Activity</h3>
-    Stay in a luxury lodge with gourmet meals and stunning vistas of snow-dusted mountain ranges, big skies and empty spaces. Or enjoy the comradeship that comes with sharing facilities and yarns with other travellers at a backpacker lodge. When it comes to booking accommodation for your travel to Central Otago, there is also plenty in-between – bed and breakfast, farmstay, homestay, self contained, holiday home, hotel, motel and holiday park. 
-
-Central Otago’s commercial centres at Alexandra and Cromwell offer the most plentiful and widest variety of accommodation types. They have a particularly broad range of reasonably priced and higher-end motels and hotels; and budget holiday park and backpacker accommodation. 
-
-The small townships spread out across New Zealand's Central Otago have limited accommodation options and they can fill up quickly. Most have at least one hotel. Sometimes these will be restored, historic buildings. Most towns will also offer other Central Otago accommodation types, particularly self-contained and homestay. 
-
-Farmstays are likely to be in remote areas, possibly well away from towns. They offer a refuge and a glimpse into New Zealand farm life. Locally raised lamb or beef will almost certainly be on the menu, too. 
+      <div class="act_box">  
+        <iframe src="https://www.youtube.com/embed/PYlCFyDzpdU" frameborder="0" allowfullscreen></iframe>
+        <div class="act_description"> 
+          <h2>Must do!</h2>
+          <br />          
+          <h4>Otago Central Rail Trail</h4>
+            <div class="bicycle_des">
+            <table class="ac_table">
+              <tr>
+                <td>Option:</td>
+                <td>1) One day Tour</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>2) Multi-Day Tour(3 - 5 days)</td>
+              </tr>
+              <tr>
+                <td>Prices:</td>
+                <td>1) Day Hire: $50</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>2) Half day Hire: $30</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>3) Multi Day Hire  $45 per day</td>
+              </tr>
+              <tr>
+                <td>Details:</td>
+                <td>&nbsp;<a href="http://www.bikeitnow.co.nz/" target="_Blank">Bike it Now!<a></td>
+              </tr>
+            </table>
+            <img class="bike" src="img/bg-header.png" alt="bike icon">
+           
+            </div>
+        </div>
+      </div>
 
     </div></a>
 

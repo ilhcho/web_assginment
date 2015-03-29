@@ -76,7 +76,7 @@ ul.menu_nav, li.menu_nav{
 .main_frame{
 	width: 100%;
 	height: 100%;	
-	padding-top:50px;
+	
 }
 
 /*Map*/
@@ -84,7 +84,7 @@ ul.menu_nav, li.menu_nav{
 	height: 640px;
 	margin-right: auto;
   	margin-left: auto;
-	
+	padding-top: 50px;
 	text-align: center;
 	border-bottom: 1px solid #e8e8e8;
     background-color: #1C5BA0;
