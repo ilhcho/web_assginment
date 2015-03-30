@@ -107,17 +107,84 @@ require_once("regions_navi.php");
 
     </div></a>
 
-    <a id="attraction"><div class="infor_box">
-    <h3>Attraction</h3>
-    Stay in a luxury lodge with gourmet meals and stunning vistas of snow-dusted mountain ranges, big skies and empty spaces. Or enjoy the comradeship that comes with sharing facilities and yarns with other travellers at a backpacker lodge. When it comes to booking accommodation for your travel to Central Otago, there is also plenty in-between – bed and breakfast, farmstay, homestay, self contained, holiday home, hotel, motel and holiday park. 
+    <a id="attraction">
+      <div class="infor_box">
+       <h3>Attraction</h3>
+        <div class="row">
+          <div class="span4">
+            <div class="att_des_side">
+              <div class="header">Heritage</div>
+              <div class="sub_header">
+              Central Otago’s best kept secret
+            </div>
+            <div class="details">
+             <p class="detail_title">Cromwell Heritage Precinct</p>
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Whole family
+              <br />
+              <i id="try" class="icon-chevron-right"></i>History
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Galleries
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Cafes
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Boutique 
+            </div>
+            <a href="http://cromwellheritageprecinct.co.nz/" class="button" target="_Blank">Visit the website</a>
+            </div>
+          </div>
 
-Central Otago’s commercial centres at Alexandra and Cromwell offer the most plentiful and widest variety of accommodation types. They have a particularly broad range of reasonably priced and higher-end motels and hotels; and budget holiday park and backpacker accommodation. 
-
-The small townships spread out across New Zealand's Central Otago have limited accommodation options and they can fill up quickly. Most have at least one hotel. Sometimes these will be restored, historic buildings. Most towns will also offer other Central Otago accommodation types, particularly self-contained and homestay. 
-
-Farmstays are likely to be in remote areas, possibly well away from towns. They offer a refuge and a glimpse into New Zealand farm life. Locally raised lamb or beef will almost certainly be on the menu, too. 
-
-    </div></a>
+          <div class="span4">
+            <div class="att_des">
+              <div class="header heaer_middle">Wineries</div>
+              <div class="sub_header">
+              Home to more than 80 wineries
+            </div>
+            <div class="details">
+              <p class="detail_title">Cromwell Heritage Precinct</p>
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Gourmet food
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Fresh produce
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Burgandy-style grapes
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Pinot-Noir
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Al-fresco dining
+              <br />
+              <br />
+            </div>
+            <a href="http://www.winesofnz.com/Regions.aspx?region=otago&AspxAutoDetectCookieSupport=1" class="button2" target="_Blank">Visit the website</a>
+            </div>
+          </div>
+         
+          <div class="span4">
+            <div class="att_des_side">
+              <div class="header">ROXBURGH</div>
+              <div class="sub_header">
+              Adrenaline-pumping adventure
+            </div>
+            <div class="details">
+              <p class="detail_title">Cromwell Heritage Precinct</p>
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Suit all ages
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Relaxing day out
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Beautiful Teviot Valley
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Fishing
+              <br />
+              <i id="try" class="icon-chevron-right"></i>Cruise ship holiday
+              
+            </div>
+            <a href="http://www.tourism.net.nz/region/otago/otago---central-otago/roxburgh/attractions-and-activities" class="button" target="_Blank">Visit the website</a>
+            </div>
+          </div>
+        </div><!-- End of row-->
+    </div><!-- End of infor_box-->
+  </a>
 
     <a id="event"><div class="infor_box">
     <h3>Event</h3>

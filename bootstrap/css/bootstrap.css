@@ -1399,7 +1399,7 @@ table th[class*="span"],
 }
 
 [class^="icon-"],
-[class*=" icon-"] {
+[class*=" icon-"] { 
   display: inline-block;
   width: 14px;
   height: 14px;
