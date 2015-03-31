@@ -1,17 +1,17 @@
-<nav class="navbar navbar-fixed-top navbar-default top_navi" role="navigation">
+<nav class="navbar navbar-fixed-top navbar-default top_navi clearfix" role="navigation">
     <div class="container">
   		<div class="logo"><a href="index.php"><img src="img/logo/NZ_logo.png" alt="New Zealnd Flag"></a></div>
         <!-- Navi responsive try -->
        <div class="navbar-header pull-right">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <a href="#" class="navbar-toggle collapsed" id="navbar">
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
-            </button>
+            </a>
            
           </div>
-  		<div class="collapse navbar-collapse" id="main-gl-nav">
-          <ul class="nav pull-right animated navbar-nav">
+  		<div class="collapse navbar-collapse">
+          <ul class="nav pull-right animated navbar-nav clearfix">
         <?php
         $region = $_GET['id'];
           if($region=='central'){   

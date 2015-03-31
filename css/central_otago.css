@@ -1,7 +1,72 @@
-.main_img
-{width: 100%;
-height: 640px;
-opacity: 0.8;}
+/*Try for navi responive try*/
+.navbar-header {
+	display: none;
+	float: left;
+  }
+.navbar-toggle .icon-bar {
+	display: block;
+	width: 22px;
+	height: 2px;
+	border-radius: 1px;
+}
+.navbar-toggle .icon-bar + .icon-bar {
+	margin-top: 4px;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: white;
+}
+.navbar-toggle {		
+	position: relative;
+	float: right;
+	padding: 9px 10px;
+	margin-top: 8px;
+	margin-right: 15px;
+	margin-bottom: 8px;
+	background-color: transparent;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
+
+@media (max-width: 1000px){
+	.navbar-nav li{
+		margin-top:0 ;
+		z-index: 1000;
+	}
+	div.navbar-collapse{	
+		height: 500px;		
+		overflow-x: visible;
+		padding-right: 15px;
+		padding-left: 15px;
+		border-top: 1px solid transparent;
+		box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
+	}
+	.navbar .nav > li {				
+		position: relative;
+		background-color: #1C5BA0;
+  		clear: both;
+  		width: 180px;
+	}
+	.navbar-header {		
+		display: inline;
+		}
+	.navbar-toggle{
+		border-color: #ddd;
+		
+		}
+	
+}
+button {overflow: visible;
+color: inherit;
+  font: inherit;}
+
+
+/*Central Otago main start*/
+.main_img{
+	width: 100%;
+	height: 640px;
+	opacity: 0.8;
+	z-index: 900;}
 
 .container_middle{
 	text-align: center;
@@ -21,7 +86,8 @@ opacity: 0.8;}
 }
 .acco_box img{
 	width: 100%;
-	border:1px solid black;
+	border:1px solid rgba(0,0,0,0.2);
+	border-radius: 4px;
 }
 
 .acco_img{
@@ -155,3 +221,4 @@ i{
 .row{
 	margin-top: 10px;
 }
+

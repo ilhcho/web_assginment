@@ -33,6 +33,7 @@
 	<!-- jQuery CDN -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="bootstrap/js/bootstrap.js"></script>
+
 	<!-- Mouser over For Image Gallery -->
 	<script type="text/javascript">
 		$(document).ready(function(){
@@ -61,9 +62,27 @@
     }
 
 });
-
-
 </script>
+<script>
+    $(function() {
+      var pull    = $('#navbar');
+        menu    = $('nav ul');
+        menuHeight  = menu.height();
+
+      $(pull).on('click', function(e) {
+        e.preventDefault();
+        menu.slideToggle();
+      });
+
+      $(window).resize(function(){
+            var w = $(window).width();
+            if(w > 320 && menu.is(':hidden')) {
+              menu.removeAttr('style');
+            }
+        });
+    });
+  </script>
+
 
 </body>
 
