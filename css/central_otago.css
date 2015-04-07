@@ -51,8 +51,7 @@
 		display: inline;
 		}
 	.navbar-toggle{
-		border-color: #ddd;
-		
+		border-color: #ddd;		
 		}
 	
 }
@@ -74,7 +73,15 @@ color: inherit;
 }
 
 .infor_box{
-	padding-top: 50px;
+	padding-top: 50px;	
+}
+.row_acco{
+	  display: block;
+  height: 100%;
+  display: table;
+
+  content: "";
+    clear: both;
 }
 
 .acco_box{
@@ -99,6 +106,7 @@ color: inherit;
 .aaco_sub h4{
 	text-align: left;
 	margin-top: 5px;
+	padding-left: 10px;
 }
 
 .act_box{
@@ -388,4 +396,12 @@ ul.a li{
 	list-style-type: disc;
 	margin-left: 20px;
 	padding-bottom: 3px;
+}
+
+ul.b li{
+	list-style-type: disc;
+	margin-top: 5px;
+	margin-left: 40px;
+	padding: 3px 0;
+	text-align: left;
 }

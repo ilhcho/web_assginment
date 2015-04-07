@@ -36,33 +36,52 @@ require_once("regions_navi.php");
    <a id="accomodation"> 
     <div class="infor_box">
       <h3>Accomodation</h3>
-      <div class="acco_box">
-        <img class="acco_img" src="img/accomodation/central/holiday.jpg" alt="central otago holiday house">
-          <div class="aaco_sub">
-          <h2>Holiday House</h2>
-          <h4>Price Range: $75~$200</h4>
-          <h4>Feature:</h4>
-          <h4>Web Site:<a href="https://www.holidayhouses.co.nz/Alexandra.asp" target="_Blank"> Holiday Houses</a></h4>
-          </div>
-      </div>
-      <div class="acco_box"> <img class="acco_img" src="img/accomodation/central/hotel.jpg" alt="central otago holiday house">
-          <div class="aaco_sub">
-          <h2>Luxury Hotel</h2>
-          <h4>Price Range: $129 ~ $449</h4>
-          <h4>Feature:           
-          <h4>Web Site:<a href="http://www.aatravel.co.nz/new-zealand/Central-Otago-District_Hotels.html" target="_Blank"> Hotels</a></h4>
-          </div>
-      </div>
-      <div class="acco_box"> <img class="acco_img" src="img/accomodation/central/backpack.jpg" alt="central otago holiday house">
-          <div class="aaco_sub">
-          <h2>Backpackers & Holiday Park</h2>
-          <h4>Price Range: $13 ~ $120</h4>
-          <h4>Feature:</h4>
-          <h4>Web Site: <a href="http://www.tourism.net.nz/region/otago/otago---central-otago/accommodation/backpacker-and-budget" target="_Blank">Backpackers</a></h4>
-          </div>
-      </div>    
+<div class="row_acco">
+  <div class="acco_box">
+    <img class="acco_img" src="img/accomodation/central/holiday.jpg" alt="central otago holiday house">
+    <div class="aaco_sub">
+      <h2>Holiday House</h2>
+      <h4>Price Range: $75~$200</h4>          
+      <ul class="b">
+      <li>Self contained</li>
+      <li>Fully equipped kitchens</li>
+      <li>A range of added facility</li>          
+      </ul>
+      <h4>Web Site:<a href="https://www.holidayhouses.co.nz/Alexandra.asp" target="_Blank"> Holiday Houses</a></h4>
+    </div>
+  </div>
 
-    </div></a>
+  <div class="acco_box"> 
+    <img class="acco_img" src="img/accomodation/central/hotel.jpg" alt="central otago holiday house">
+    <div class="aaco_sub">
+      <h2>Luxury Hotel</h2>
+      <h4>Price Range: $129 ~ $449</h4>
+      <ul class="b">
+        <li>On-site management at all times</li>
+        <li>Breakfast is available</li>
+        <li>All rooms have tea and coffee-making facilities</li>
+      </ul>
+      <h4>Web Site:<a href="http://www.aatravel.co.nz/new-zealand/Central-Otago-District_Hotels.html" target="_Blank"> Hotels</a></h4>
+    </div>
+  </div>
+
+  <div class="acco_box"> 
+    <img class="acco_img" src="img/accomodation/central/backpack.jpg" alt="central otago holiday house">
+    <div class="aaco_sub">
+      <h2>Backpackers & Holiday Park</h2>
+      <h4>Price Range: $13 ~ $120</h4>
+      <ul class="b">
+        <li>Camping grounds and motor camps</li>
+        <li>Communal kitchens,toilets,showers,laundries</li>
+        <li>Powered and non-powered sites</li>
+      </ul>
+      <h4>Web Site: <a href="http://www.tourism.net.nz/region/otago/otago---central-otago/accommodation/backpacker-and-budget" target="_Blank">Backpackers</a></h4>
+    </div> 
+  </div>
+</div>
+    </div><!--End of infor_box-->
+   </a>
+
  <a id="activity">
   <div class="infor_box">
     <h3>Activity</h3>
