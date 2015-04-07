@@ -221,4 +221,171 @@ i{
 .row{
 	margin-top: 10px;
 }
+/*Event*/
+.event_calender{
+	width: 100%;
+	min-width: 600px;
+	height: 500px;
+	margin-top: 10px;	
+	font-size: 20px;
+	font-weight: bold;
 
+}
+
+.spring{
+	width: 100%;
+	height: 125px;
+	border:1px solid rgba(0,0,0,0.2);
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	background-color:rgba(232, 101, 136,0.1);
+}
+.summer{
+	width: 100%;
+	height: 125px;
+	border:1px solid rgba(0,0,0,0.2);
+	border-top: hidden;
+	background-color:rgba(45, 150, 209,0.2);
+}
+.autumn{
+	width: 100%;
+	height: 125px;
+	background-color:rgba(145, 96, 75,0.2);
+	border:1px solid rgba(0,0,0,0.2);
+	border-top: hidden;
+}
+.winter{
+	width: 100%;
+	height: 125px;	
+	border:1px solid rgba(0,0,0,0.2);
+	border-top: hidden;
+	background-color:rgba(192, 192, 186,0.3);
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+
+.border_right{
+	border-right:1px solid rgba(0,0,0,0.2);
+}
+.months{
+/*	width: 33.333333333%;*/
+	width: 33.2222222222%;
+	height: 125px;
+	text-align: center;
+	float: left;
+    
+}
+.vertical_center{
+	padding:56px 0;
+}
+
+.months_9:hover{
+	background-color: #E86588;
+	border-radius: 4px;
+	background-image: url("../img/event/try.jpg");
+	color:#E86588;
+}
+.months_10:hover{
+	background-color: #E86588;
+	border-radius: 4px;
+}
+.months_11:hover{
+	background-color: #E86588;
+	border-radius: 4px;
+}
+.months_12:hover{
+	background-color: #2D96D1;
+	border-radius: 4px;
+}
+.months_1:hover{
+	background-color: #2D96D1;
+	border-radius: 4px;
+}
+.months_2:hover{
+	background-color: #2D96D1;
+	border-radius: 4px;
+}
+.months_3:hover{
+	background-color: #91604B;
+	border-radius: 4px;
+}
+.months_4:hover{
+	background-color: #91604B;
+	border-radius: 4px;
+}
+.months_5:hover{
+	background-color: #91604B;
+	border-radius: 4px;
+}
+.months_6:hover{
+	background-color: #C0C0BA;
+	border-radius: 4px;
+}
+.months_7:hover{
+	background-color: #C0C0BA;
+	border-radius: 4px;
+}
+.months_8:hover{
+	background-color: #C0C0BA;
+	border-radius: 4px;
+}
+/*Restaurant*/
+
+.divider {
+  margin: auto;
+  margin-top: 10px;
+  width: 970px;
+  border-color: rgba(0,0,0,0.2);
+  border-width: 1px;
+  max-width: 100%;
+  margin-bottom: 60px;
+  }
+
+.res_wrapper{
+	width: 100%;
+	height:250px;
+/*	background-color: red;*/
+	margin-top: 10px;
+}
+.img_part{
+	width: 40%;
+	height: 250px;
+/*	background-color: yellow;*/
+	float: left;
+}
+.des_part{
+	width: 60%;
+	height: 250px;
+/*	background-color: orange;	*/
+	float: left;
+	text-align: left;
+}
+.res_img{
+	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+}
+
+.img_radius{	
+	border-radius: 4px;
+}
+h5{
+	color: #1C5BA0;  	
+  	font-size: 20px;
+  	margin-bottom: 10px; 
+    }
+
+.des_part2{
+	margin-top: 35px;
+	width: 80%;
+}
+#res_des{
+	font-weight: normal;
+	margin-bottom: 5px;
+}
+
+ul.a li{
+	list-style-type: disc;
+	margin-left: 20px;
+	padding-bottom: 3px;
+}
