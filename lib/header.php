@@ -9,9 +9,23 @@
 	<!-- css -->
 	<link href="css/index.css" rel="stylesheet" type="text/css" media="all">
 	<link href="css/central_otago.css" rel="stylesheet" type="text/css" media="all"> 
-	<link href="bootstrap/css/bootstrap.css" rel="stylesheet" media="all">
-	<link href="css/js-image-slider.css" rel="stylesheet" type="text/css" media="all">  
-	<link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" media="all"> 
+	
+	<?php
+	$region = $_GET['id'];
+	if($region=='dunedin'){
+	?>
+	<link href="css/dunedin-js-image-slider.css" rel="stylesheet" type="text/css" media="all">  
+	<?php
+	}
+	else{
+	?>
+	<link href="css/index-js-image-slider.css" rel="stylesheet" type="text/css" media="all">  
+	<?php
+ 	}
+	?>
+
+	<link href="lib/bootstrap/css/bootstrap.css" rel="stylesheet" media="all">
+	<link href="lib/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" media="all"> 
   	
  </head>
 

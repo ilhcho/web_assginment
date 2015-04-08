@@ -1,5 +1,5 @@
 <?php
-require_once("header.php");
+require_once("lib/header.php");
 ?>
 
 <!-- Main Frames -->
@@ -78,7 +78,7 @@ require_once("header.php");
 
 				<div class="box">
 					<img src="img/icons/accomodation.png" alt="accomodation_icon" />
-					<h3>Accomodation</h3>
+					<h3>Accommodation</h3>
 				</div>
 				<div class="box" id="box_activity">
 					<img src="img/icons/activity.png" alt="activity_icon" />
@@ -108,5 +108,5 @@ require_once("img_gallery.php");
 
 <!-- Footer -->
 <?php
-require_once("footer.php");
+require_once("lib/footer.php");
 ?>

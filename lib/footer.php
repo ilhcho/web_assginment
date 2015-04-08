@@ -22,7 +22,7 @@
       <div class="footer_content">
         <h3 class="footer_title">Information</h3>
         <ul>
-          <li><a href="#">Accomodation</a></li>
+          <li><a href="#">Accommodation</a></li>
           <li><a href="#">Restaurant</a></li>
           <li><a href="#">Going to Otago</a></li>
          </ul>
@@ -32,7 +32,7 @@
 
 	<!-- jQuery CDN -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script src="bootstrap/js/bootstrap.js"></script>
+	<script src="lib/bootstrap/js/bootstrap.js"></script>
 
 	<!-- Mouser over For Image Gallery -->
 	<script type="text/javascript">
@@ -46,7 +46,8 @@
 				});
 			})
 	</script>
- 	<script src="js/js-image-slider.js" type="text/javascript"></script>
+<!-- Index / Dunedin -->
+   <script src="js/dunedin-js-image-slider.js" type="text/javascript"></script>
 
 <!-- Scroll to -->
 <script type="text/javascript">

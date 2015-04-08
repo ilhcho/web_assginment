@@ -30,7 +30,7 @@
             echo'<li class="active"><a href="#">The Catlins</a></li>';
           }
         ?>        
-            <li><a href="#accomodation">Accomodation</a></li>
+            <li><a href="#accomodation">Accommodation</a></li>
             <li><a href="#activity">Activity</a></li>
             <li><a href="#attraction">Attraction</a></li>
             <li><a href="#event">Event</a></li>
