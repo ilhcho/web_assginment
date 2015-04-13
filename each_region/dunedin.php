@@ -102,73 +102,73 @@
         <div class="row">
           <div class="span4">
             <div class="att_des_side">
-              <div class="header">Heritage</div>
+              <div class="header" id="dunedin_h3">Architecture</div>
               <div class="sub_header">
-              Central Otago’s best kept secret
+              Lives with and values its heritage
             </div>
             <div class="details">
-             <p class="detail_title">Cromwell Heritage Precinct</p>
+             <p class="detail_title">Architecture & Heritage</p>
               <br />
-              <i id="try" class="icon-chevron-right"></i>Whole family
+              <i id="try" class="icon-chevron-right"></i>Larnach Castle
               <br />
-              <i id="try" class="icon-chevron-right"></i>History
+              <i id="try" class="icon-chevron-right"></i>Olveston House
               <br />
-              <i id="try" class="icon-chevron-right"></i>Galleries
+              <i id="try" class="icon-chevron-right"></i>Speight's Brewery
               <br />
-              <i id="try" class="icon-chevron-right"></i>Cafes
+              <i id="try" class="icon-chevron-right"></i>NZ Railways Road Building
               <br />
-              <i id="try" class="icon-chevron-right"></i>Boutique 
+              <i id="try" class="icon-chevron-right"></i>Municipal Chambers
             </div>
-            <a href="http://cromwellheritageprecinct.co.nz/" class="button" target="_Blank">Visit the website</a>
+            <a href="http://www.dunedinnz.com/visit/see-and-do/architecture-historic-buildings" class="button" target="_Blank">Visit the website</a>
             </div>
           </div>
 
           <div class="span4">
             <div class="att_des">
-              <div class="header heaer_middle">Wineries</div>
+              <div class="header heaer_middle">Beaches</div>
               <div class="sub_header">
-              Home to more than 80 wineries
+              Spectacular and varied coastline
             </div>
             <div class="details">
-              <p class="detail_title">Cromwell Heritage Precinct</p>
+              <p class="detail_title">Surfing & Safe Swimming</p>
               <br />
-              <i id="try" class="icon-chevron-right"></i>Gourmet food
+              <i id="try" class="icon-chevron-right"></i>St Clair Beach
               <br />
-              <i id="try" class="icon-chevron-right"></i>Fresh produce
+              <i id="try" class="icon-chevron-right"></i>Aramoana Beach
               <br />
-              <i id="try" class="icon-chevron-right"></i>Burgandy-style grapes
+              <i id="try" class="icon-chevron-right"></i>Victory Beach
               <br />
-              <i id="try" class="icon-chevron-right"></i>Pinot-Noir
+              <i id="try" class="icon-chevron-right"></i>Blueskin Bay
               <br />
-              <i id="try" class="icon-chevron-right"></i>Al-fresco dining
+              <i id="try" class="icon-chevron-right"></i>Tunnel Beach
               <br />
               <br />
             </div>
-            <a href="http://www.winesofnz.com/Regions.aspx?region=otago&AspxAutoDetectCookieSupport=1" class="button2" target="_Blank">Visit the website</a>
+            <a href="http://www.dunedinnz.com/visit/see-and-do/beaches" class="button2" target="_Blank">Visit the website</a>
             </div>
               </div>
      
           <div class="span4">
             <div class="att_des_side">
-              <div class="header">ROXBURGH</div>
+              <div class="header">Gardens</div>
               <div class="sub_header">
-              Adrenaline-pumping adventure
+              Provide year-round interest
             </div>
             <div class="details">
-              <p class="detail_title">Cromwell Heritage Precinct</p>
+              <p class="detail_title">Adorn Dunedin</p>
               <br />
-              <i id="try" class="icon-chevron-right"></i>Suit all ages
+              <i id="try" class="icon-chevron-right"></i>Botanic Garden
               <br />
-              <i id="try" class="icon-chevron-right"></i>Relaxing day out
+              <i id="try" class="icon-chevron-right"></i>Chinese Garden
               <br />
-              <i id="try" class="icon-chevron-right"></i>Beautiful Teviot Valley
+              <i id="try" class="icon-chevron-right"></i>Glenfalloch Woodland
               <br />
-              <i id="try" class="icon-chevron-right"></i>Fishing
+              <i id="try" class="icon-chevron-right"></i>Larnach Castle Gardens
               <br />
-              <i id="try" class="icon-chevron-right"></i>Cruise ship holiday
+              <i id="try" class="icon-chevron-right"></i>Olveston Historic Home
               
             </div>
-            <a href="http://www.tourism.net.nz/region/otago/otago---central-otago/roxburgh/attractions-and-activities" class="button" target="_Blank">Visit the website</a>
+            <a href="http://www.dunedinnz.com/visit/see-and-do/category/gardens" class="button" target="_Blank">Visit the website</a>
             </div>
           </div>
         </div><!-- End of row-->
@@ -178,7 +178,28 @@
     <a id="event"><div class="infor_box">
     <a href="http://www.centralotagonz.com/event-calendar" target="_Blank"><h3>Event</h3></a>
     <div class="event_calender">
-    <div class="spring">
+ <div class="spring">
+      <div class="months border_right months_9"><img src="img/event/september.jpg" alt="september"></div>
+      <div class="months border_right months_10"></div>
+      <div class="months months_11"></div>
+    </div>
+    <div class="summer">
+      <div class="months border_right months_12"><img src="img/event/december.jpg" alt="december"></div>
+      <div class="months border_right months_1"></div>
+      <div class="months months_2"></div>
+    </div>
+    <div class="autumn">
+      <div class="months border_right months_3"><img src="img/event/march.jpg" alt="march"></div>
+      <div class="months border_right months_4"><img src="" alt=""></div>
+      <div class="months months_5"></div>
+    </div>
+    <div class="winter">
+      <div class="months border_right months_6"><img src="img/event/june.jpg" alt="june"></div>
+      <div class="months border_right months_7"><img src="" alt=""></div>
+      <div class="months months_8"></div>
+    </div>
+
+   <!--  <div class="spring">
       <div class="months border_right months_9"><div class="vertical_center">September</div></div>
       <div class="months border_right months_10"><div class="vertical_center">October</div></div>
       <div class="months months_11"><div class="vertical_center">November</div></div>
@@ -197,7 +218,7 @@
       <div class="months border_right months_6"><div class="vertical_center">June</div></div>
       <div class="months border_right months_7"><div class="vertical_center">July</div></div>
       <div class="months months_8"><div class="vertical_center">August</div></div>
-    </div>
+    </div> -->
 
     </div><!--End of event_calender-->
 
@@ -208,21 +229,21 @@
     <div class="res_wrapper">
     <div class="img_part">
       <div class="res_img">
-        <img class="img_radius" src="img/restaurant/central/cellar.jpg" alt="CELLAR DOORS">
+        <img class="img_radius" src="img/restaurant/dunedin/homegrown.jpg" alt="homegrown">
      </div>
     </div>
     <div class="des_part">
     <div class="des_part2">
-      <a href="http://www.centralotagonz.com/New-Zealand/Cellar-Door_sbt_arm=0_stm=0_st=126_.html"><h5>Cellar Doors</h5></a>
-      <h4 id="res_des">Most Central Otago wineries offer visitors wine tasting and the opportunity to buy their wines.</h4>
-      <h4 id="res_des"> It is more personal than going to a store or restaurant.</h4>
+      <a href="http://www.centralotagonz.com/New-Zealand/Cellar-Door_sbt_arm=0_stm=0_st=126_.html"><h5>Homegrown </h5></a>
+      <h4 id="res_des">Celebrates the diversity of Dunedin’s extensive artisan food community, featuring the passionate people who make and grow outstanding products.</h4>
+    
       <ul class="a">
-       <li><a href="http://www.mtdifficulty.co.nz" target="_Blank">Mt Difficulty Wines</a></li>
-       <li><a href="http://www.wooingtree.co.nz" target="_Blank">Wooing Tree Vineyard</a></li>
-       <li><a href="http://www.carrick.co.nz" target="_Blank">Carrick Winery Restaurant & Cellar Door</a></li>
-       <li><a href="http://www.pinotthymetours.co.nz" target="_Blank">Pinot Thyme Wine Tours</a></li>   
+       <li><a href="http://www.strictlycoffee.co.nz/" target="_Blank">Strictly Coffee</a></li>
+       <li><a href="http://www.emersons.co.nz/" target="_Blank">Emerson's Brewery</a></li>
+       <li><a href="http://artemis.co.nz/" target="_Blank">Artemis Natural Healthcare</a></li>
+       <li><a href="http://www.dunedinnz.com/visit/homegrown/2014-02-21/Southern-Clams" target="_Blank">Southern Clams</a></li>   
       </ul>
-      <h4><a href="http://www.centralotagonz.com/New-Zealand/Cellar-Door_sbt_arm=0_stm=0_st=126_.html" target="_Blank">Read More</a></h4>
+      <h4><a href="http://www.dunedinnz.com/visit/homegrown" target="_Blank">Read More</a></h4>
     
     </div>
     </div>
@@ -233,21 +254,21 @@
 <div class="res_wrapper">
     <div class="img_part">
       <div class="res_img">
-        <img class="img_radius" src="img/restaurant/central/restaurants.jpg" alt="CENTRAL OTAGO RESTAURANTS">
+        <img class="img_radius" src="img/restaurant/dunedin/restaurant.jpg" alt="RESTAURANTS">
      </div>
     </div>
     <div class="des_part">
     <div class="des_part2">
-      <a href="http://www.centralotagonz.com/New-Zealand/Restaurants_sbt_arm=0_stm=0_st=100_.html"><h5>Central Otago Restaurants</h5></a>
-      <h4 id="res_des">Restaurants are most stock award-winning Central Otago wines.</h4>
-      <h4 id="res_des">Restaurants offer fine dining in the evenings.</h4>
+      <a href="http://www.centralotagonz.com/New-Zealand/Restaurants_sbt_arm=0_stm=0_st=100_.html"><h5>Dunedin Restaurants</h5></a>
+      <h4 id="res_des">Restaurants have won national recognition for outstanding food and service.</h4>
+      <h4 id="res_des">The sheer variety of dining options will surprise you.</h4>
       <ul class="a">
-       <li><a href="http://www.goldengate.co.nz" target="_Blank">Golden Gate Lodge</a></li>
-       <li><a href="http://www.lakeroxburghlodge.co.nz" target="_Blank">Lake Roxburgh Lodge</a></li>
-       <li><a href="http://www.centralotagonz.com/cromwell-bannockburn/pisa-moorings/restaurants/x,1,5275/the-moorings-restaurant-bar.html" target="_Blank">The Moorings Restaurant & Bar</a></li>
-       <li><a href="http://www.mtdifficulty.co.nz" target="_Blank">Mt Difficulty Wines</a></li>   
+       <li><a href="https://www.zomato.com/dunedin/manila-grill-filipino-japanese-restaurant-dunedin-central" target="_Blank">Manila Grill - Filipino & Japanese Cuisine</a></li>
+       <li><a href="https://www.zomato.com/dunedin/del-sol-vila-mexicana-dunedin-dunedin-central" target="_Blank">Del Sol - Vila Mexicana</a></li>
+       <li><a href="https://www.zomato.com/dunedin/etrusco-at-savoy-dunedin-central" target="_Blank">Etrusco</a></li>
+       <li><a href="https://www.zomato.com/dunedin/capers-restaurant-dunedin-north" target="_Blank">Capers Cafe</a></li>   
       </ul>
-      <h4><a href="http://www.centralotagonz.com/New-Zealand/Restaurants_sbt_arm=0_stm=0_st=100_.html" target="_Blank">Read More</a></h4>
+      <h4><a href="https://www.zomato.com/dunedin/restaurants" target="_Blank">Read More</a></h4>
     
     </div>
     </div>
@@ -258,23 +279,21 @@
     <div class="res_wrapper">
     <div class="img_part">
       <div class="res_img">
-        <img class="img_radius" src="img/restaurant/central/cafe.jpg" alt="CAFÉS IN CENTRAL OTAGO">
+        <img class="img_radius" src="img/restaurant/dunedin/tours-cuisine.jpg" alt="tours-cuisine">
      </div>
     </div>
     <div class="des_part">
     <div class="des_part2">
-      <a href="http://www.centralotagonz.com/New-Zealand/Caf%C3%A9_sbt_arm=0_stm=0_st=153_.html"><h5>Cafés in Central Otago</h5></a>
-      <h4 id="res_des">Cafés have a relaxed atmosphere and usually offer a casual all-day dining 
-      experience. </h4>
-      <h4 id="res_des"> Most cafés provide juices, teas, espresso coffee and 
-      other hot and cold drinks.</h4>
+      <a href="http://www.centralotagonz.com/New-Zealand/Caf%C3%A9_sbt_arm=0_stm=0_st=153_.html"><h5>Taste Dunedin</h5></a>
+      <h4 id="res_des">There is an abundance of fine food being grown, harvested, made, prepared and served in Dunedin, as well as some fine brown brews being poured.</h4>
+      
        <ul class="a">
-       <li><a href="http://www.wildearthwines.co.nz" target="_Blank">Wild Earth</a></li>
-       <li><a href="http://www.centralotagonz.com/roxburgh/roxburgh/cafes/x,1,5244/rox-cafe.html" target="_Blank">Rox Cafe</a></li>
-       <li><a href="http://www.speargrassinn.co.nz" target="_Blank">Speargrass Inn</a></li>
-       <li><a href="http://www.centralotagonz.com/cromwell-bannockburn/bannockburn/restaurants/x,1,5283/the-kitchen-bannockburn.html" target="_Blank">The Kitchen Bannockburn</a></li>   
+       <li><a href="http://www.dunedinnz.com/visit/events/food-wine/otago-farmers-market" target="_Blank">Otago Farmers Market</a></li>
+       <li><a href="http://www.dunedinnz.com/visit/eat/taste-dunedin/evansdale-cheese" target="_Blank">Evansdale Cheese</a></li>
+       <li><a href="http://www.dunedinnz.com/visit/eat/taste-dunedin/cadbury-giant-jaffas" target="_Blank">Cadbury Giant Jaffas</a></li>
+       <li><a href="http://www.dunedinnz.com/visit/eat/taste-dunedin/speights-beer" target="_Blank">Speigt's</a></li>   
       </ul>
-      <h4><a href="http://www.centralotagonz.com/New-Zealand/Caf%C3%A9_sbt_arm=0_stm=0_st=153_.html" target="_Blank">Read More</a></h4>
+      <h4><a href="http://www.dunedinnz.com/visit/eat/taste-dunedin" target="_Blank">Read More</a></h4>
     
     </div>
     </div>

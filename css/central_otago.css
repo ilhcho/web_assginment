@@ -247,6 +247,7 @@ i{
 	border-top-left-radius: 4px;
 	border-top-right-radius: 4px;
 	background-color:rgba(232, 101, 136,0.1);
+	
 }
 .summer{
 	width: 100%;
@@ -290,24 +291,32 @@ i{
 .months_9:hover{
 	background-color: #E86588;
 	border-radius: 4px;
-	background-image: url("../img/event/try.jpg");
+	background-image: url("../img/event/central/cen_9.jpg");
 	color:#E86588;
 }
 .months_10:hover{
 	background-color: #E86588;
 	border-radius: 4px;
+	background-image: url("../img/event/central/cen_10.jpg");
+	color:#E86588;
 }
 .months_11:hover{
 	background-color: #E86588;
 	border-radius: 4px;
+	background-image: url("../img/event/central/cen_11.jpg");
+	color:#E86588;
 }
 .months_12:hover{
 	background-color: #2D96D1;
 	border-radius: 4px;
+	background-image: url("../img/event/central/cen_12.jpg");
+	color:#2D96D1;
 }
 .months_1:hover{
 	background-color: #2D96D1;
 	border-radius: 4px;
+	background-image: url("../img/event/central/cen_1.jpg");
+	color:#2D96D1;
 }
 .months_2:hover{
 	background-color: #2D96D1;
@@ -320,6 +329,8 @@ i{
 .months_4:hover{
 	background-color: #91604B;
 	border-radius: 4px;
+	background-image: url("../img/event/central/cen_4.jpg");
+	color:#91604B;
 }
 .months_5:hover{
 	background-color: #91604B;
@@ -328,10 +339,14 @@ i{
 .months_6:hover{
 	background-color: #C0C0BA;
 	border-radius: 4px;
+	background-image: url("../img/event/central/cen_6.jpg");
+	color:#C0C0BA;
 }
 .months_7:hover{
 	background-color: #C0C0BA;
 	border-radius: 4px;
+	background-image: url("../img/event/central/cen_7.jpg");
+	color:#C0C0BA;
 }
 .months_8:hover{
 	background-color: #C0C0BA;
@@ -404,4 +419,8 @@ ul.b li{
 	margin-left: 40px;
 	padding: 3px 0;
 	text-align: left;
+}
+
+#dunedin_h3{
+	font-size: 30px;
 }

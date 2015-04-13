@@ -127,7 +127,7 @@
               Home to more than 80 wineries
             </div>
             <div class="details">
-              <p class="detail_title">Cromwell Heritage Precinct</p>
+              <p class="detail_title">Centrol Otago premium wine</p>
               <br />
               <i id="try" class="icon-chevron-right"></i>Gourmet food
               <br />
@@ -152,7 +152,7 @@
               Adrenaline-pumping adventure
             </div>
             <div class="details">
-              <p class="detail_title">Cromwell Heritage Precinct</p>
+              <p class="detail_title">Range of historic attractions</p>
               <br />
               <i id="try" class="icon-chevron-right"></i>Suit all ages
               <br />
