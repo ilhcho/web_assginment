@@ -3,12 +3,12 @@
    <a id="accomodation"> 
     <div class="infor_box">
       <h3>Accommodation</h3>
-<div class="row">
+<div class="north_accomm">
   <img src="img/accomodation/north/caravans.png" alt="caravans">
   <img src="img/accomodation/north/house.png" alt="house">
   <img src="img/accomodation/north/hotel.png" alt="hotel">  
 </div>
-<div class="row">
+<div class="north_accomm">
   <img src="img/accomodation/north/lodge.png" alt="lodge">
   <img src="img/accomodation/north/motel.png" alt="motel">
   <img src="img/accomodation/north/backpack.png" alt="backpack">  
