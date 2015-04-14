@@ -76,12 +76,11 @@ color: inherit;
 	padding-top: 50px;	
 }
 .row_acco{
-	  display: block;
-  height: 100%;
-  display: table;
-
-  content: "";
-    clear: both;
+	display: block;
+	height: 100%;
+	display: table;
+	content: "";
+	clear: both;
 }
 
 .acco_box{
@@ -232,8 +231,7 @@ i{
 /*Event*/
 .event_calender{
 	width: 100%;
-	min-width: 600px;
-	height: 500px;
+	min-width: 650px;	
 	margin-top: 10px;	
 	font-size: 20px;
 	font-weight: bold;
@@ -277,18 +275,37 @@ i{
 	border-right:1px solid rgba(0,0,0,0.2);
 }
 .months{
-/*	width: 33.333333333%;*/
 	width: 33.2222222222%;
 	height: 125px;
 	text-align: center;
-	float: left;
-    
+	float: left;    
 }
+
+.month1,.month2,.month3{
+	height: 125px;
+	text-align: center;
+	float: left;  
+}
+.month1{
+	width: 33.3617747440273%;	  
+}
+
+.month2{
+	width: 33.3617747440273%;		
+}
+.month3{
+	width: 33.10580204778157%;	  
+}
+.img_size{
+	width: 100%;
+	height: 100%;
+}
+
 .vertical_center{
 	padding:56px 0;
 }
 
-.months_9:hover{
+/*.months_9:hover{
 	background-color: #E86588;
 	border-radius: 4px;
 	background-image: url("../img/event/central/cen_9.jpg");
@@ -352,6 +369,7 @@ i{
 	background-color: #C0C0BA;
 	border-radius: 4px;
 }
+*/
 /*Restaurant*/
 
 .divider {

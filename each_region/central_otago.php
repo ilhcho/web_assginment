@@ -176,24 +176,24 @@
     <a href="http://www.centralotagonz.com/event-calendar" target="_Blank"><h3>Event</h3></a>
     <div class="event_calender">
     <div class="spring">
-      <div class="months border_right months_9"><div class="vertical_center">September</div></div>
-      <div class="months border_right months_10"><div class="vertical_center">October</div></div>
-      <div class="months months_11"><div class="vertical_center">November</div></div>
+      <div class="month1 border_right months_9"><img class="img_size" src="img/event/september.jpg" alt="september"></div>
+      <div class="month2 border_right months_10"><img class="img_size" src="img/event/october.jpg" alt="october"></div>
+      <div class="month3 months_11"><img class="img_size" src="img/event/november.jpg" alt="november"></div>
     </div>
     <div class="summer">
-      <div class="months border_right months_12"><div class="vertical_center">December</div></div>
-      <div class="months border_right months_1"><div class="vertical_center">January</div></div>
-      <div class="months months_2"><div class="vertical_center">February</div></div>
+      <div class="month1 border_right months_12"><img class="img_size" src="img/event/december.jpg" alt="december"></div>
+      <div class="month2 border_right months_1"><img class="img_size" src="img/event/january.jpg" alt="january"></div>
+      <div class="month3 months_2"><img class="img_size" src="img/event/february.jpg" alt="february"></div>
     </div>
     <div class="autumn">
-      <div class="months border_right months_3"><div class="vertical_center">March</div></div>
-      <div class="months border_right months_4"><div class="vertical_center">April</div></div>
-      <div class="months months_5"><div class="vertical_center">May</div></div>
+      <div class="month1 border_right months_3"><img class="img_size" src="img/event/march.jpg" alt="march"></div>
+      <div class="month2 border_right months_4"><img class="img_size" src="img/event/april.jpg" alt="april"></div>
+      <div class="month3 months_5"><img class="img_size" src="img/event/may.jpg" alt="may"></div>
     </div>
     <div class="winter">
-      <div class="months border_right months_6"><div class="vertical_center">June</div></div>
-      <div class="months border_right months_7"><div class="vertical_center">July</div></div>
-      <div class="months months_8"><div class="vertical_center">August</div></div>
+      <div class="month1 border_right months_6"><img class="img_size" src="img/event/june.jpg" alt="june"></div>
+      <div class="month2 border_right months_7"><img class="img_size" src="img/event/july.jpg" alt="july"></div>
+      <div class="month3 months_8"><img class="img_size" src="img/event/august.jpg" alt="august"></div>
     </div>
 
     </div><!--End of event_calender-->
