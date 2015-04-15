@@ -109,15 +109,15 @@
             <div class="details">
              <p class="detail_title">Architecture & Heritage</p>
               <br />
-              <i id="try" class="icon-chevron-right"></i>Larnach Castle
+              <i class="icon-chevron-right"></i>Larnach Castle
               <br />
-              <i id="try" class="icon-chevron-right"></i>Olveston House
+              <i class="icon-chevron-right"></i>Olveston House
               <br />
-              <i id="try" class="icon-chevron-right"></i>Speight's Brewery
+              <i class="icon-chevron-right"></i>Speight's Brewery
               <br />
-              <i id="try" class="icon-chevron-right"></i>NZ Railways Road Building
+              <i class="icon-chevron-right"></i>NZ Railways Road Building
               <br />
-              <i id="try" class="icon-chevron-right"></i>Municipal Chambers
+              <i class="icon-chevron-right"></i>Municipal Chambers
             </div>
             <a href="http://www.dunedinnz.com/visit/see-and-do/architecture-historic-buildings" class="button" target="_Blank">Visit the website</a>
             </div>
@@ -132,15 +132,15 @@
             <div class="details">
               <p class="detail_title">Surfing & Safe Swimming</p>
               <br />
-              <i id="try" class="icon-chevron-right"></i>St Clair Beach
+              <i class="icon-chevron-right"></i>St Clair Beach
               <br />
-              <i id="try" class="icon-chevron-right"></i>Aramoana Beach
+              <i class="icon-chevron-right"></i>Aramoana Beach
               <br />
-              <i id="try" class="icon-chevron-right"></i>Victory Beach
+              <i class="icon-chevron-right"></i>Victory Beach
               <br />
-              <i id="try" class="icon-chevron-right"></i>Blueskin Bay
+              <i class="icon-chevron-right"></i>Blueskin Bay
               <br />
-              <i id="try" class="icon-chevron-right"></i>Tunnel Beach
+              <i class="icon-chevron-right"></i>Tunnel Beach
               <br />
               <br />
             </div>
@@ -157,15 +157,15 @@
             <div class="details">
               <p class="detail_title">Adorn Dunedin</p>
               <br />
-              <i id="try" class="icon-chevron-right"></i>Botanic Garden
+              <i class="icon-chevron-right"></i>Botanic Garden
               <br />
-              <i id="try" class="icon-chevron-right"></i>Chinese Garden
+              <i class="icon-chevron-right"></i>Chinese Garden
               <br />
-              <i id="try" class="icon-chevron-right"></i>Glenfalloch Woodland
+              <i class="icon-chevron-right"></i>Glenfalloch Woodland
               <br />
-              <i id="try" class="icon-chevron-right"></i>Larnach Castle Gardens
+              <i class="icon-chevron-right"></i>Larnach Castle Gardens
               <br />
-              <i id="try" class="icon-chevron-right"></i>Olveston Historic Home
+              <i class="icon-chevron-right"></i>Olveston Historic Home
               
             </div>
             <a href="http://www.dunedinnz.com/visit/see-and-do/category/gardens" class="button" target="_Blank">Visit the website</a>
@@ -176,50 +176,28 @@
   </a>
 
     <a id="event"><div class="infor_box">
-    <a href="http://www.centralotagonz.com/event-calendar" target="_Blank"><h3>Event</h3></a>
+    <a href="https://www.dunedin.govt.nz/events" target="_Blank"><h3>Event</h3></a>
     <div class="event_calender">
- <div class="spring">
+      <div class="spring">
       <div class="month1 border_right months_9"><img class="img_size" src="img/event/september.jpg" alt="september"></div>
-      <div class="month2 border_right months_10"><img class="img_size" src="img/event/october.jpg" alt="october"></div>
-      <div class="month3 months_11"><img class="img_size" src="img/event/november.jpg" alt="november"></div>
-    </div>
-    <div class="summer">
-      <div class="month1 border_right months_12"><img class="img_size" src="img/event/december.jpg" alt="december"></div>
-      <div class="month2 border_right months_1"><img class="img_size" src="img/event/january.jpg" alt="january"></div>
-      <div class="month3 months_2"><img class="img_size" src="img/event/february.jpg" alt="february"></div>
-    </div>
-    <div class="autumn">
-      <div class="month1 border_right months_3"><img class="img_size" src="img/event/march.jpg" alt="march"></div>
-      <div class="month2 border_right months_4"><img class="img_size" src="img/event/april.jpg" alt="april"></div>
-      <div class="month3 months_5"><img class="img_size" src="img/event/may.jpg" alt="may"></div>
-    </div>
-    <div class="winter">
-      <div class="month1 border_right months_6"><img class="img_size" src="img/event/june.jpg" alt="june"></div>
-      <div class="month2 border_right months_7"><img class="img_size" src="img/event/july.jpg" alt="july"></div>
+      <div class="month2 border_right months_10"><img src="img/event/october.jpg" alt="october" class="img_size" id="Image1" onMouseOver="MM_swapImage('Image1','','img/event/dunedin/dunedin_10.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month3 months_11"><img src="img/event/november.jpg" alt="november" class="img_size"></div>
+      </div>
+      <div class="summer">
+      <div class="month1 border_right months_12"><img src="img/event/december.jpg" alt="december" class="img_size" id="Image3" onMouseOver="MM_swapImage('Image3','','img/event/dunedin/dunedin_12.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month2 border_right months_1"><img src="img/event/january.jpg" alt="january" class="img_size" id="Image4" onMouseOver="MM_swapImage('Image4','','img/event/dunedin/dunedin_1.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month3 months_2"><img src="img/event/february.jpg" alt="february" class="img_size" id="Image5" onMouseOver="MM_swapImage('Image5','','img/event/dunedin/dunedin_2.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      </div>
+      <div class="autumn">
+      <div class="month1 border_right months_3"><img class="img_size" src="img/event/march.jpg" alt="march" id="Image6" onMouseOver="MM_swapImage('Image6','','img/event/dunedin/dunedin_3.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month2 border_right months_4"><img src="img/event/april.jpg" alt="april" class="img_size" id="Image7" onMouseOver="MM_swapImage('Image7','','img/event/dunedin/dunedin_4.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month3 months_5"><img class="img_size" src="img/event/may.jpg" alt="may" id="Image8" onMouseOver="MM_swapImage('Image8','','img/event/dunedin/dunedin_5.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      </div>
+      <div class="winter">
+      <div class="month1 border_right months_6"><img src="img/event/june.jpg" alt="june" class="img_size" id="Image9" onMouseOver="MM_swapImage('Image9','','img/event/dunedin/dunedin_6.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month2 border_right months_7"><img src="img/event/july.jpg" alt="july" class="img_size" id="Image10" onMouseOver="MM_swapImage('Image10','','img/event/dunedin/dunedin_7.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
       <div class="month3 months_8"><img class="img_size" src="img/event/august.jpg" alt="august"></div>
-    </div>
-
-   <!--  <div class="spring">
-      <div class="months border_right months_9"><div class="vertical_center">September</div></div>
-      <div class="months border_right months_10"><div class="vertical_center">October</div></div>
-      <div class="months months_11"><div class="vertical_center">November</div></div>
-    </div>
-    <div class="summer">
-      <div class="months border_right months_12"><div class="vertical_center">December</div></div>
-      <div class="months border_right months_1"><div class="vertical_center">January</div></div>
-      <div class="months months_2"><div class="vertical_center">February</div></div>
-    </div>
-    <div class="autumn">
-      <div class="months border_right months_3"><div class="vertical_center">March</div></div>
-      <div class="months border_right months_4"><div class="vertical_center">April</div></div>
-      <div class="months months_5"><div class="vertical_center">May</div></div>
-    </div>
-    <div class="winter">
-      <div class="months border_right months_6"><div class="vertical_center">June</div></div>
-      <div class="months border_right months_7"><div class="vertical_center">July</div></div>
-      <div class="months months_8"><div class="vertical_center">August</div></div>
-    </div> -->
-
+      </div>
     </div><!--End of event_calender-->
 
     </div></a>

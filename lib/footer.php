@@ -33,57 +33,10 @@
 	<!-- jQuery CDN -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="lib/bootstrap/js/bootstrap.js"></script>
-
-	<!-- Mouser over For Image Gallery -->
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$('#nav_gallery a').mouseover(function(e){
-				e.preventDefault();
-				$('#nav_gallery a').removeClass('active');
-				$(this).addClass('active');
-				img_url = $(this).attr('href');
-				$('#window img').attr('src',img_url);
-				});
-			})
-	</script>
 <!-- Index / Dunedin -->
-   <script src="js/dunedin-js-image-slider.js" type="text/javascript"></script>
-
-<!-- Scroll to -->
-<script type="text/javascript">
-  $('a[href^="#"]').on('click', function(event) {
-
-    var target = $( $(this).attr('href') );
-
-    if( target.length ) {
-        event.preventDefault();
-        $('html, body').animate({
-            scrollTop: target.offset().top
-        }, 1000);
-    }
-
-});
-</script>
-<script>
-    $(function() {
-      var pull    = $('#navbar');
-        menu    = $('nav ul');
-        menuHeight  = menu.height();
-
-      $(pull).on('click', function(e) {
-        e.preventDefault();
-        menu.slideToggle();
-      });
-
-      $(window).resize(function(){
-            var w = $(window).width();
-            if(w > 320 && menu.is(':hidden')) {
-              menu.removeAttr('style');
-            }
-        });
-    });
-  </script>
-
+  <script src="js/dunedin-js-image-slider.js" type="text/javascript"></script>
+<!-- Js Library -->
+  <script src="js/jslib.js" type="text/javascript"></script>
 
 </body>
 

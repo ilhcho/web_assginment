@@ -446,14 +446,26 @@ ul.b li{
 
 /*North_otago*/
 
+.acco_sub{
+	color: #1C5BA0;
+}
 
-@media (min-width: 1200px) {
-  .north_accomm {
-    margin-left: -15px;
-	margin-right: -15px;
-	display: block;
-	height: 100%;
-	margin-right: auto;
-  	margin-left: auto;
-  }
+.acco_padding{
+	padding: 50px 0;
+}
+
+#north_h3{
+	font-size: 28px;
+}
+#north_h3_2{
+	font-size: 20px;
+}
+
+.north_divider {
+  margin: auto;
+  margin-top: 10px;
+  width: 970px;
+  border-color: rgba(0,0,0,0.2);
+  border-width: 1px;
+  max-width: 100%;
   }

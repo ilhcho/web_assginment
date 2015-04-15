@@ -30,8 +30,6 @@ require_once("regions_navi.php");
   
   </div>
 </div><!-- End of main_framie -->
-
-
 <!-- Main body of each area -->
 <?php
   if($region=='central'){

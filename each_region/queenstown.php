@@ -1,1 +1,253 @@
-queens
+<div class="middle middle_box">
+  <div class="container container_middle">
+   <a id="accomodation"> 
+    <div class="infor_box">
+      <h3>Accommodation</h3>
+<div class="north_accomm">
+  <img src="img/accomodation/north/caravans.png" alt="caravans">
+  <img src="img/accomodation/north/house.png" alt="house">
+  <img src="img/accomodation/north/hotel.png" alt="hotel">  
+</div>
+<div class="north_accomm">
+  <img src="img/accomodation/north/lodge.png" alt="lodge">
+  <img src="img/accomodation/north/motel.png" alt="motel">
+  <img src="img/accomodation/north/backpack.png" alt="backpack">  
+</div>
+
+    </div><!--End of infor_box-->
+   </a>
+
+
+ <a id="activity">
+  <div class="infor_box"></a>
+    <h3>Activity</h3>
+       <div id="sliderFrame">
+        <div id="slider">
+            <a href="http://www.dunedinnz.com/visit/see-and-do/outdoor-sport/golf-courses" target="_blank">
+                <img src="img/activity/dunedin/golf.jpg" alt="18 holes of challenging undulation" />
+            </a>
+            <a class="lazyImage" href="img/activity/dunedin/penguin.jpg" title="The world's smallest penguin">The world's smallest penguin</a>
+            <a href="img/activity/dunedin/surfing.jpg" title="1 m-3m, but 4m to 6m-plus waves"><b data-src="img/activity/dunedin/surfing.jpg" >Image Slider</b></a>
+            <a class="lazyImage" href="img/activity/dunedin/walk.jpg" title="There are numerous scenic walks around Dunedin">Slide 4</a>
+        </div>
+        <!--thumbnails-->
+        <div id="thumbs">
+            <div class="thumb">
+                <div class="frame"><img src="img/activity/dunedin/golf.jpg" alt="Dunedin Golf" /></div>
+                <div class="thumb-content"><p>Golf Courses</p>Courses are all within close proximity to the city centre.</div>
+                <div style="clear:both;"></div>
+            </div>
+            <div class="thumb">
+                <div class="frame"><img src="img/activity/dunedin/penguin.jpg" align="Dunedin Penguin" /></div>
+                <div class="thumb-content"><p>Little blue penguin</p>Just over 25 cm tall and weigh's around 1 kg.</div>
+                <div style="clear:both;"></div>
+            </div>
+            <div class="thumb">
+                <div class="frame"><img src="img/activity/dunedin/surfing.jpg" alt="Dunedin Surfing" /></div>
+                <div class="thumb-content"><p>Surfing</p>Waves to be surfed by everyone!</div>
+                <div style="clear:both;"></div>
+            </div>
+            <div class="thumb">
+                <div class="frame"><img src="img/activity/dunedin/walk.jpg" alt="Dunedin Walking" /></div>
+                <div class="thumb-content"><p>Walking Tracks & Trails</p>Challenge and unique way to experience the stunning scenery.</div>
+                <div style="clear:both;"></div>
+            </div>
+        </div>
+        <!--clear above float:left elements. It is required if above #slider is styled as float:left. -->
+        <div style="clear:both;height:0;"></div>
+    </div>
+   
+   
+
+    </div>
+
+    <a id="attraction">
+      <div class="infor_box">
+       <h3>Attraction</h3>
+        <div class="row">
+          <div class="span4">
+            <div class="att_des_side">
+              <div class="header">Heritage</div>
+              <div class="sub_header">
+              Central Otago’s best kept secret
+            </div>
+            <div class="details">
+             <p class="detail_title">Cromwell Heritage Precinct</p>
+              <br />
+              <i class="icon-chevron-right"></i>Whole family
+              <br />
+              <i class="icon-chevron-right"></i>History
+              <br />
+              <i class="icon-chevron-right"></i>Galleries
+              <br />
+              <i class="icon-chevron-right"></i>Cafes
+              <br />
+              <i class="icon-chevron-right"></i>Boutique 
+            </div>
+            <a href="http://cromwellheritageprecinct.co.nz/" class="button" target="_Blank">Visit the website</a>
+            </div>
+          </div>
+
+          <div class="span4">
+            <div class="att_des">
+              <div class="header heaer_middle">Wineries</div>
+              <div class="sub_header">
+              Home to more than 80 wineries
+            </div>
+            <div class="details">
+              <p class="detail_title">Cromwell Heritage Precinct</p>
+              <br />
+              <i class="icon-chevron-right"></i>Gourmet food
+              <br />
+              <i class="icon-chevron-right"></i>Fresh produce
+              <br />
+              <i class="icon-chevron-right"></i>Burgandy-style grapes
+              <br />
+              <i class="icon-chevron-right"></i>Pinot-Noir
+              <br />
+              <i class="icon-chevron-right"></i>Al-fresco dining
+              <br />
+              <br />
+            </div>
+            <a href="http://www.winesofnz.com/Regions.aspx?region=otago&AspxAutoDetectCookieSupport=1" class="button2" target="_Blank">Visit the website</a>
+            </div>
+              </div>
+     
+          <div class="span4">
+            <div class="att_des_side">
+              <div class="header">ROXBURGH</div>
+              <div class="sub_header">
+              Adrenaline-pumping adventure
+            </div>
+            <div class="details">
+              <p class="detail_title">Cromwell Heritage Precinct</p>
+              <br />
+              <i class="icon-chevron-right"></i>Suit all ages
+              <br />
+              <i class="icon-chevron-right"></i>Relaxing day out
+              <br />
+              <i class="icon-chevron-right"></i>Beautiful Teviot Valley
+              <br />
+              <i class="icon-chevron-right"></i>Fishing
+              <br />
+              <i class="icon-chevron-right"></i>Cruise ship holiday
+              
+            </div>
+            <a href="http://www.tourism.net.nz/region/otago/otago---central-otago/roxburgh/attractions-and-activities" class="button" target="_Blank">Visit the website</a>
+            </div>
+          </div>
+        </div><!-- End of row-->
+    </div><!-- End of infor_box-->
+  </a>
+
+    <a id="event"><div class="infor_box">
+    <a href="http://www.queenstownnz.co.nz/information/Events/?gclid=CjwKEAjw9bKpBRD-geiF8OHz4EcSJACO4O7T9bd43NIWTopAIgBcr2W-gSgnXQGfUFSfRX67i8cauBoCAAPw_wcB" target="_Blank"><h3>Event</h3></a>
+    <div class="event_calender">
+
+ <div class="spring">
+      <div class="month1 border_right months_9"><img class="img_size" src="img/event/september.jpg" alt="september"></div>
+      <div class="month2 border_right months_10"><img src="img/event/october.jpg" alt="october" class="img_size"></div>
+      <div class="month3 months_11"><img src="img/event/november.jpg" alt="november" class="img_size" id="Image1" onMouseOver="MM_swapImage('Image1','','img/event/queenstown/queen_11.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+    </div>
+    <div class="summer">
+      <div class="month1 border_right months_12"><img src="img/event/december.jpg" alt="december" class="img_size"></div>
+      <div class="month2 border_right months_1"><img src="img/event/january.jpg" alt="january" class="img_size"></div>
+      <div class="month3 months_2"><img class="img_size" src="img/event/february.jpg" alt="february"></div>
+    </div>
+    <div class="autumn">
+      <div class="month1 border_right months_3"><img class="img_size" src="img/event/march.jpg" alt="march"></div>
+      <div class="month2 border_right months_4"><img src="img/event/april.jpg" alt="april" class="img_size" id="Image2" onMouseOver="MM_swapImage('Image2','','img/event/queenstown/queen_4.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month3 months_5"><img class="img_size" src="img/event/may.jpg" alt="may"></div>
+    </div>
+    <div class="winter">
+      <div class="month1 border_right months_6"><img src="img/event/june.jpg" alt="june" class="img_size" id="Image3" onMouseOver="MM_swapImage('Image3','','img/event/queenstown/queen_6.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month2 border_right months_7"><img src="img/event/july.jpg" alt="july" class="img_size"></div>
+      <div class="month3 months_8"><img class="img_size" src="img/event/august.jpg" alt="august" id="Image4" onMouseOver="MM_swapImage('Image4','','img/event/queenstown/queen_8.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+    </div>
+
+    </div><!--End of event_calender-->
+
+    </div></a>
+
+   <a id="restaurant"><div class="infor_box">
+    <h3>Restaurant</h3>
+    <div class="res_wrapper">
+    <div class="img_part">
+      <div class="res_img">
+        <img class="img_radius" src="img/restaurant/central/cellar.jpg" alt="CELLAR DOORS">
+     </div>
+    </div>
+    <div class="des_part">
+    <div class="des_part2">
+      <a href="http://www.centralotagonz.com/New-Zealand/Cellar-Door_sbt_arm=0_stm=0_st=126_.html"><h5>Cellar Doors</h5></a>
+      <h4 id="res_des">Most Central Otago wineries offer visitors wine tasting and the opportunity to buy their wines.</h4>
+      <h4 id="res_des"> It is more personal than going to a store or restaurant.</h4>
+      <ul class="a">
+       <li><a href="http://www.mtdifficulty.co.nz" target="_Blank">Mt Difficulty Wines</a></li>
+       <li><a href="http://www.wooingtree.co.nz" target="_Blank">Wooing Tree Vineyard</a></li>
+       <li><a href="http://www.carrick.co.nz" target="_Blank">Carrick Winery Restaurant & Cellar Door</a></li>
+       <li><a href="http://www.pinotthymetours.co.nz" target="_Blank">Pinot Thyme Wine Tours</a></li>   
+      </ul>
+      <h4><a href="http://www.centralotagonz.com/New-Zealand/Cellar-Door_sbt_arm=0_stm=0_st=126_.html" target="_Blank">Read More</a></h4>
+    
+    </div>
+    </div>
+
+    </div>
+    <hr class="divider">
+
+<div class="res_wrapper">
+    <div class="img_part">
+      <div class="res_img">
+        <img class="img_radius" src="img/restaurant/central/restaurants.jpg" alt="CENTRAL OTAGO RESTAURANTS">
+     </div>
+    </div>
+    <div class="des_part">
+    <div class="des_part2">
+      <a href="http://www.centralotagonz.com/New-Zealand/Restaurants_sbt_arm=0_stm=0_st=100_.html"><h5>Central Otago Restaurants</h5></a>
+      <h4 id="res_des">Restaurants are most stock award-winning Central Otago wines.</h4>
+      <h4 id="res_des">Restaurants offer fine dining in the evenings.</h4>
+      <ul class="a">
+       <li><a href="http://www.goldengate.co.nz" target="_Blank">Golden Gate Lodge</a></li>
+       <li><a href="http://www.lakeroxburghlodge.co.nz" target="_Blank">Lake Roxburgh Lodge</a></li>
+       <li><a href="http://www.centralotagonz.com/cromwell-bannockburn/pisa-moorings/restaurants/x,1,5275/the-moorings-restaurant-bar.html" target="_Blank">The Moorings Restaurant & Bar</a></li>
+       <li><a href="http://www.mtdifficulty.co.nz" target="_Blank">Mt Difficulty Wines</a></li>   
+      </ul>
+      <h4><a href="http://www.centralotagonz.com/New-Zealand/Restaurants_sbt_arm=0_stm=0_st=100_.html" target="_Blank">Read More</a></h4>
+    
+    </div>
+    </div>
+
+    </div>
+    <hr class="divider">
+
+    <div class="res_wrapper">
+    <div class="img_part">
+      <div class="res_img">
+        <img class="img_radius" src="img/restaurant/central/cafe.jpg" alt="CAFÉS IN CENTRAL OTAGO">
+     </div>
+    </div>
+    <div class="des_part">
+    <div class="des_part2">
+      <a href="http://www.centralotagonz.com/New-Zealand/Caf%C3%A9_sbt_arm=0_stm=0_st=153_.html"><h5>Cafés in Central Otago</h5></a>
+      <h4 id="res_des">Cafés have a relaxed atmosphere and usually offer a casual all-day dining 
+      experience. </h4>
+      <h4 id="res_des"> Most cafés provide juices, teas, espresso coffee and 
+      other hot and cold drinks.</h4>
+       <ul class="a">
+       <li><a href="http://www.wildearthwines.co.nz" target="_Blank">Wild Earth</a></li>
+       <li><a href="http://www.centralotagonz.com/roxburgh/roxburgh/cafes/x,1,5244/rox-cafe.html" target="_Blank">Rox Cafe</a></li>
+       <li><a href="http://www.speargrassinn.co.nz" target="_Blank">Speargrass Inn</a></li>
+       <li><a href="http://www.centralotagonz.com/cromwell-bannockburn/bannockburn/restaurants/x,1,5283/the-kitchen-bannockburn.html" target="_Blank">The Kitchen Bannockburn</a></li>   
+      </ul>
+      <h4><a href="http://www.centralotagonz.com/New-Zealand/Caf%C3%A9_sbt_arm=0_stm=0_st=153_.html" target="_Blank">Read More</a></h4>
+    
+    </div>
+    </div>
+    </div>
+
+
+    </div></a>
+
+  </div><!-- End of container -->
+</div><!-- End of middle -->

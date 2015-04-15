@@ -106,15 +106,15 @@
             <div class="details">
              <p class="detail_title">Cromwell Heritage Precinct</p>
               <br />
-              <i id="try" class="icon-chevron-right"></i>Whole family
+              <i class="icon-chevron-right"></i>Whole family
               <br />
-              <i id="try" class="icon-chevron-right"></i>History
+              <i class="icon-chevron-right"></i>History
               <br />
-              <i id="try" class="icon-chevron-right"></i>Galleries
+              <i class="icon-chevron-right"></i>Galleries
               <br />
-              <i id="try" class="icon-chevron-right"></i>Cafes
+              <i class="icon-chevron-right"></i>Cafes
               <br />
-              <i id="try" class="icon-chevron-right"></i>Boutique 
+              <i class="icon-chevron-right"></i>Boutique 
             </div>
             <a href="http://cromwellheritageprecinct.co.nz/" class="button" target="_Blank">Visit the website</a>
             </div>
@@ -129,15 +129,15 @@
             <div class="details">
               <p class="detail_title">Centrol Otago premium wine</p>
               <br />
-              <i id="try" class="icon-chevron-right"></i>Gourmet food
+              <i class="icon-chevron-right"></i>Gourmet food
               <br />
-              <i id="try" class="icon-chevron-right"></i>Fresh produce
+              <i class="icon-chevron-right"></i>Fresh produce
               <br />
-              <i id="try" class="icon-chevron-right"></i>Burgandy-style grapes
+              <i class="icon-chevron-right"></i>Burgandy-style grapes
               <br />
-              <i id="try" class="icon-chevron-right"></i>Pinot-Noir
+              <i class="icon-chevron-right"></i>Pinot-Noir
               <br />
-              <i id="try" class="icon-chevron-right"></i>Al-fresco dining
+              <i class="icon-chevron-right"></i>Al-fresco dining
               <br />
               <br />
             </div>
@@ -154,15 +154,15 @@
             <div class="details">
               <p class="detail_title">Range of historic attractions</p>
               <br />
-              <i id="try" class="icon-chevron-right"></i>Suit all ages
+              <i class="icon-chevron-right"></i>Suit all ages
               <br />
-              <i id="try" class="icon-chevron-right"></i>Relaxing day out
+              <i class="icon-chevron-right"></i>Relaxing day out
               <br />
-              <i id="try" class="icon-chevron-right"></i>Beautiful Teviot Valley
+              <i class="icon-chevron-right"></i>Beautiful Teviot Valley
               <br />
-              <i id="try" class="icon-chevron-right"></i>Fishing
+              <i class="icon-chevron-right"></i>Fishing
               <br />
-              <i id="try" class="icon-chevron-right"></i>Cruise ship holiday
+              <i class="icon-chevron-right"></i>Cruise ship holiday
               
             </div>
             <a href="http://www.tourism.net.nz/region/otago/otago---central-otago/roxburgh/attractions-and-activities" class="button" target="_Blank">Visit the website</a>
@@ -177,22 +177,22 @@
     <div class="event_calender">
     <div class="spring">
       <div class="month1 border_right months_9"><img class="img_size" src="img/event/september.jpg" alt="september"></div>
-      <div class="month2 border_right months_10"><img class="img_size" src="img/event/october.jpg" alt="october"></div>
-      <div class="month3 months_11"><img class="img_size" src="img/event/november.jpg" alt="november"></div>
+      <div class="month2 border_right months_10"><img src="img/event/october.jpg" alt="october" class="img_size" id="Image1" onMouseOver="MM_swapImage('Image1','','img/event/central/cen_10.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month3 months_11"><img src="img/event/november.jpg" alt="november" class="img_size" id="Image2" onMouseOver="MM_swapImage('Image2','','img/event/central/cen_11.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
     </div>
     <div class="summer">
-      <div class="month1 border_right months_12"><img class="img_size" src="img/event/december.jpg" alt="december"></div>
-      <div class="month2 border_right months_1"><img class="img_size" src="img/event/january.jpg" alt="january"></div>
+      <div class="month1 border_right months_12"><img src="img/event/december.jpg" alt="december" class="img_size" id="Image3" onMouseOver="MM_swapImage('Image3','','img/event/central/cen_12.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month2 border_right months_1"><img src="img/event/january.jpg" alt="january" class="img_size" id="Image4" onMouseOver="MM_swapImage('Image4','','img/event/central/cen_1.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
       <div class="month3 months_2"><img class="img_size" src="img/event/february.jpg" alt="february"></div>
     </div>
     <div class="autumn">
       <div class="month1 border_right months_3"><img class="img_size" src="img/event/march.jpg" alt="march"></div>
-      <div class="month2 border_right months_4"><img class="img_size" src="img/event/april.jpg" alt="april"></div>
+      <div class="month2 border_right months_4"><img src="img/event/april.jpg" alt="april" class="img_size" id="Image5" onMouseOver="MM_swapImage('Image5','','img/event/central/cen_4.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
       <div class="month3 months_5"><img class="img_size" src="img/event/may.jpg" alt="may"></div>
     </div>
     <div class="winter">
-      <div class="month1 border_right months_6"><img class="img_size" src="img/event/june.jpg" alt="june"></div>
-      <div class="month2 border_right months_7"><img class="img_size" src="img/event/july.jpg" alt="july"></div>
+      <div class="month1 border_right months_6"><img src="img/event/june.jpg" alt="june" class="img_size" id="Image6" onMouseOver="MM_swapImage('Image6','','img/event/central/cen_6.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
+      <div class="month2 border_right months_7"><img src="img/event/july.jpg" alt="july" class="img_size" id="Image7" onMouseOver="MM_swapImage('Image7','','img/event/central/cen_7.jpg',0)" onMouseOut="MM_swapImgRestore()"></div>
       <div class="month3 months_8"><img class="img_size" src="img/event/august.jpg" alt="august"></div>
     </div>
 
