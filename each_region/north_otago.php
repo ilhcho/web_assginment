@@ -31,7 +31,7 @@
 <h2 class="acco_sub">Backpackers</h2></a>
   </div>
  
-</div><!-- End of North_accomm -->
+</div><!-- End of row -->
 
     </div><!--End of infor_box-->
    </a>

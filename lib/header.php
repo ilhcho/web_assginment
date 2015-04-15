@@ -12,7 +12,7 @@
 	
 	<?php
 	$region = $_GET['id'];
-	if($region=='dunedin'){
+	if($region=='dunedin' or $region=='queens'){
 	?>
 	<link href="css/dunedin-js-image-slider.css" rel="stylesheet" type="text/css" media="all">  
 	<?php

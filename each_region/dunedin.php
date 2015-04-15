@@ -69,12 +69,12 @@
         <div id="thumbs">
             <div class="thumb">
                 <div class="frame"><img src="img/activity/dunedin/golf.jpg" alt="Dunedin Golf" /></div>
-                <div class="thumb-content"><p>Golf Courses</p>Courses are all within close proximity to the city centre.</div>
+                <div class="thumb-content"><p>Golf Courses</p>Courses are all within close to the city.</div>
                 <div style="clear:both;"></div>
             </div>
             <div class="thumb">
                 <div class="frame"><img src="img/activity/dunedin/penguin.jpg" align="Dunedin Penguin" /></div>
-                <div class="thumb-content"><p>Little blue penguin</p>Just over 25 cm tall and weigh's around 1 kg.</div>
+                <div class="thumb-content"><p>Little blue penguin</p>Just 25 cm tall and weigh's around 1 kg.</div>
                 <div style="clear:both;"></div>
             </div>
             <div class="thumb">
@@ -84,7 +84,7 @@
             </div>
             <div class="thumb">
                 <div class="frame"><img src="img/activity/dunedin/walk.jpg" alt="Dunedin Walking" /></div>
-                <div class="thumb-content"><p>Walking Tracks & Trails</p>Challenge and unique way to experience the stunning scenery.</div>
+                <div class="thumb-content"><p>Walking Tracks</p>Challenge and unique way to experience the stunning scenery.</div>
                 <div style="clear:both;"></div>
             </div>
         </div>
