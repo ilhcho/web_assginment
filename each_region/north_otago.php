@@ -70,7 +70,7 @@
         <div class="row">
           <div class="span4">
             <div class="att_des_side">
-              <div class="header" id="north_h3">WAITAKI VALLEY</div>
+              <div class="header north_h3">WAITAKI VALLEY</div>
               <div class="sub_header">
               Inspire to get in touch with nature
                
@@ -120,7 +120,7 @@
      
           <div class="span4">
             <div class="att_des_side">
-              <div class="header" id="north_h3_2">COASTAL NORTH OTAGO</div>
+              <div class="header north_h3_2">COASTAL NORTH OTAGO</div>
               <div class="sub_header">
               Spectacular views of the Pacific Ocean
             </div>

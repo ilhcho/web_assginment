@@ -40,7 +40,7 @@ body {
 .navigation{	
 	top:0;
 	float: right;
-	width: 300px;
+	width: 600px;
 
 }
 ul.menu_nav, li.menu_nav{
@@ -202,3 +202,36 @@ h3.footer_title {
 	float: left;
 	width: 33%;
 }
+
+/*light box*/
+.sign_up{
+  width: 320px;
+  height: 250px;
+  background-color: white;
+  border-radius: 4px;
+}
+.sign_table{
+  margin-top: 10px;
+  margin-left: 5px;
+}
+#close_button{
+  margin-left: 302px;
+  cursor: pointer;
+}
+#close_button:hover{
+	color: grey;
+}
+#sign_up_title{
+	font-size: 26px;	
+}
+
+header{ 
+  text-align: center;
+  margin-top: -10px;}
+
+ table input{
+ 	margin-left: 5px;
+ }
+ .btn{
+ 	margin-left: 5px;
+ }

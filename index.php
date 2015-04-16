@@ -8,10 +8,10 @@ require_once("lib/header.php");
 	<nav class="top_navi">
 		<div class="container">
 			<div class="logo">
-			<a href="#"><img src="img/logo/NZ_logo.png" alt="New Zealnd Flag"></a>
+			<a href="#"><img src="img/logo/NZ_logo.png" alt="New Zealnd Flag"></a>			
 			</div>
 			<div class="navigation">				
-				<div class="dropdown">
+				<div class="dropdown">					
 					<li class="menu_nav">
 		  			<a class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#" href="/page.html">
 		    		Regions
@@ -26,12 +26,49 @@ require_once("lib/header.php");
 						    <li><a tabindex="-1" href="regions.php?id=catlins">The Catlins</a></li>
 					  	</ul>	
 				</div>
-				
-					<li class="menu_nav" id="menu_nav"><a href="#">Information</a></li>
+					<li class="menu_nav my_popup_open"><a href="#">SIGN UP</a></li>
+					<li class="menu_nav"><a href="#">Version1</a></li>
+					<li class="menu_nav"><a href="#">Version1</a></li>
+	
+  <!-- Sign up Content -->
+  <div id="my_popup">
+
+  <div class="sign_up">
+      <a class="my_popup_close" id="close_button">x</a>
+    <header>   
+    <h3 id="sign_up_title">Sign Up</h3>    
+    </header>
+    <form action="">
+    <table class="sign_table">
+      <tr>
+        <td><label for="">Email:</label></td>
+        <td><input type="text" placeholder="userID@email.com*"><br /></td>
+      </tr>
+      <tr>
+        <td><label for="">First Name:</label></td>
+        <td><input type="text" placeholder="Required*"></td>
+      </tr>
+      <tr>
+        <td><label for="">Last Name:</td>
+        <td> </label><input type="text" placeholder="Required*"></td>
+      </tr>
+      <tr>
+        <td><label for="">Password:</td>
+        <td> </label><input type="password" placeholder="At least 7 Character*"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><button class="btn">submit</button></td>
+      </tr>      
+    </table> 
+    
+    </form>
+
+  </div>    
+  </div><!-- End of my_popup-->
 			</div><!-- End of navigation -->
 		</div><!-- End of container -->
 	</nav>
-
 	<!-- Main content - map -->
 	<div class="map">		
 		<img id="map_img" src="img/map/south6.png" alt="south island map">
@@ -63,9 +100,7 @@ require_once("lib/header.php");
 				</tr>
 			</table>
 			<br />
-			
 				<img src="img/climate_real.png" alt="climate chart">
-			
 		</div>
 	</div>
 </div>	
@@ -75,7 +110,6 @@ require_once("lib/header.php");
 			<br />
 			<br />
 			<br />
-
 				<div class="box">
 					<img src="img/icons/accomodation.png" alt="accomodation_icon" />
 					<h3>Accommodation</h3>
@@ -94,7 +128,6 @@ require_once("lib/header.php");
 					<h3>Restaurant</h3>
 				</div>
 			</div>
-
 		</div>
 	</div>
 
@@ -102,10 +135,6 @@ require_once("lib/header.php");
 <?php
 require_once("img_gallery.php");
 ?>
-
-
-
-
 <!-- Footer -->
 <?php
 require_once("lib/footer.php");

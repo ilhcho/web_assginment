@@ -439,10 +439,6 @@ ul.b li{
 	text-align: left;
 }
 
-#dunedin_h3{
-	font-size: 30px;
-}
-
 
 /*North_otago*/
 
@@ -454,12 +450,6 @@ ul.b li{
 	padding: 50px 0;
 }
 
-#north_h3{
-	font-size: 28px;
-}
-#north_h3_2{
-	font-size: 20px;
-}
 
 .north_divider {
   margin: auto;
@@ -471,12 +461,36 @@ ul.b li{
   }
 
 /*Queenstown*/
-#queens_h3{
+/*Attraction title font size*/
+.queens_h3_3{
+	font-size: 33px;
+}
+.north_h3{
 	font-size: 28px;
 }
-#queens_h3_2{
-	font-size:28px;
+.north_h3_2{
+	font-size: 20px;
 }
-#queens_h3_3{
-	font-size: 33px;
+#dunedin_h3{
+	font-size: 30px;
+}
+
+.font_24px{
+	font-size: 24px;
+}
+
+/* Catlins */
+
+.active_img{
+	border-radius: 4px;
+	border: 1px solid rgba(0,0,0,0.2);
+}
+
+.active_sub{
+	color: #1C5BA0;
+	font-size: 20px;
+}
+.des_part3{
+	margin-top: 70px;
+	width: 80%;
 }

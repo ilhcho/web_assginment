@@ -37,6 +37,22 @@
   <script src="js/dunedin-js-image-slider.js" type="text/javascript"></script>
 <!-- Js Library -->
   <script src="js/jslib.js" type="text/javascript"></script>
+ 
+ <!-- This is for index light box -->
+<!-- Include jQuery Popup Overlay -->
+ <script src="js/jquery.popupoverlay.js"></script>
+
+  <script>
+    $(document).ready(function() {
+
+      // Initialize the plugin
+     $('#my_popup').popup({
+  transition: 'all 1s',
+
+});
+
+    });
+  </script>
 
 </body>
 

@@ -82,7 +82,7 @@
         <div class="row">
           <div class="span4">
             <div class="att_des_side">
-              <div class="header" id="queens_h3_2">Winter Sports</div>
+              <div class="header north_h3">Winter Sports</div>
               <div class="sub_header" id="sub_font">
               Favourite winter playground
             </div>
@@ -105,7 +105,7 @@
 
           <div class="span4">
             <div class="att_des">
-              <div class="header heaer_middle" id="queens_h3">Milford Sound</div>
+              <div class="header heaer_middle north_h3">Milford Sound</div>
               <div class="sub_header">
               The world's top travel destination 
             </div>
@@ -130,7 +130,7 @@
      
           <div class="span4">
             <div class="att_des_side">
-              <div class="header" id="queens_h3_3">Sightseeing</div>
+              <div class="header queens_h3_3">Sightseeing</div>
               <div class="sub_header">
              Ideal to see the region’s best features
             </div>
@@ -239,7 +239,7 @@
     </div>
     <div class="des_part">
     <div class="des_part2">
-  <h5>Cafés in Central Otago</h5>
+  <h5>Cafés</h5>
       <h4 id="res_des">Enjoy a leisurely breakfast, lunch or coffee break at one of Queenstown's many stylish cafes.</h4>
        <ul class="a">
        <li><a href="http://www.postmasters.co.nz/" target="_blank">Postmasters restaurant</a></li>
