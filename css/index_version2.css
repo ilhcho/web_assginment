@@ -1,3 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
 body {
 	width: 100%;
 	margin:0;
@@ -16,7 +19,7 @@ body {
   	left: 0;
   	min-height: 50px;
   	top:0;
-  	background-color: #1C5BA0;
+  	background-color: #087B86;
   	z-index: 1000;
 }
 
@@ -37,7 +40,7 @@ body {
 .logo{	
 	float: left;
 }
-.navigation{	
+.navigation{
 	top:0;
 	float: right;
 	width: 600px;
@@ -56,8 +59,8 @@ ul.menu_nav, li.menu_nav{
 	display: block;
     width: 120px;
     font-weight: bold;
+	background-color:#087B86;
     color: #FFFFFF;
-    background-color:#1C5BA0;
     text-align: center;
     font-size: 20px;    
     text-decoration: none;
@@ -68,7 +71,7 @@ ul.menu_nav, li.menu_nav{
   color: white;
   height: 24px;
   text-decoration: none;
-  background-color: #3E89DD;
+  background-color: #0D9CA9;
   -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
      -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
           box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
@@ -84,17 +87,16 @@ ul.menu_nav, li.menu_nav{
 .map{
 	height: 640px;
 	margin-right: auto;
-  	margin-left: auto;
-	
+  	margin-left: auto;	
 	text-align: center;
 	border-bottom: 1px solid #e8e8e8;
-    background-color: #1C5BA0;
+    background-color: #087B86;
     /* For WebKit (Safari, Chrome, etc) */
-    background: #1C5BA0 -webkit-gradient(linear, left top, left bottom, from(#1C5BA0), to(#3E89DD)) no-repeat;
+    background: #087B86 -webkit-gradient(linear, left top, left bottom, from(#087B86), to(#0D9CA9)) no-repeat;
     /* Mozilla,Firefox/Gecko */
-    background: #1C5BA0 -moz-linear-gradient(top, #1C5BA0, #3E89DD) no-repeat;
+    background: #087B86 -moz-linear-gradient(top,#087B86, #0D9CA9) no-repeat;
     /* IE 5.5 - 7 */
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#1C5BA0, endColorstr=#3E89DD) no-repeat;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#087B86, endColorstr=#0D9CA9) no-repeat;
     /* IE 8 */
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#1C5BA0, endColorstr=#3E89DD)" no-repeat;
 }
@@ -171,7 +173,7 @@ h3{
 	width: 100%;
 	height: 150px;
 	color: white;
-	background-color:#1C5BA0;
+	background-color:#087B86;
 
 }
 .contaier_footer{

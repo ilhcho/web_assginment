@@ -27,8 +27,8 @@ require_once("lib/header.php");
 					  	</ul>	
 				</div>
 					<li class="menu_nav my_popup_open"><a href="#">SIGN UP</a></li>
-					<li class="menu_nav"><a href="#">Version1</a></li>
-					<li class="menu_nav"><a href="#">Version1</a></li>
+					<li class="menu_nav"><a href="index.php?id=version1">Version1</a></li>
+					<li class="menu_nav"><a href="index.php?id=version2">Version2</a></li>
 	
   <!-- Sign up Content -->
   <div id="my_popup">
@@ -38,32 +38,31 @@ require_once("lib/header.php");
     <header>   
     <h3 id="sign_up_title">Sign Up</h3>    
     </header>
-    <form action="">
+    <form action="#" onSubmit="MM_validateForm('uemail','','RisEmail','ufname','','R','ulname','','R','upass','','R');return document.MM_returnValue">
     <table class="sign_table">
       <tr>
-        <td><label for="">Email:</label></td>
-        <td><input type="text" placeholder="userID@email.com*"><br /></td>
+        <td><label for="uemail">Email:</label></td>
+        <td><input name="uemail" type="text" placeholder="userID@email.com*"  id="uemail" size="35" maxlength="50"><br /></td>
       </tr>
       <tr>
-        <td><label for="">First Name:</label></td>
-        <td><input type="text" placeholder="Required*"></td>
+        <td><label for="ufname">First Name:</label></td>
+        <td><input name="ufname" type="text" placeholder="Required*"  id="ufname" size="35" maxlength="50"></td>
       </tr>
       <tr>
-        <td><label for="">Last Name:</td>
-        <td> </label><input type="text" placeholder="Required*"></td>
+        <td><label for="ulname">Last Name:</td>
+        <td> </label><input name="ulname" type="text" placeholder="Required*"  id="ulname" size="35" maxlength="50"></td>
       </tr>
       <tr>
-        <td><label for="">Password:</td>
-        <td> </label><input type="password" placeholder="At least 7 Character*"></td>
+        <td><label for="upass">Password:</td>
+        <td> </label><input name="upass" type="password" placeholder="At least 7 Character*"  id="upass" size="35" maxlength="50"></td>
       </tr>
       <tr>
         <td></td>
-        <td><button class="btn">submit</button></td>
+        <td><button class="btn" name="Submit">SUBMIT</button></td>
       </tr>      
     </table> 
     
     </form>
-
   </div>    
   </div><!-- End of my_popup-->
 			</div><!-- End of navigation -->

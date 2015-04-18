@@ -23,6 +23,16 @@
 	<?php
  	}
 	?>
+    <?php
+    if($region=="version2"){
+	?>
+    <link href="css/index_version2.css" rel="stylesheet" type="text/css" media="all">
+    <?php
+	}
+	?>
+    
+    
+    
 
 	<link href="lib/bootstrap/css/bootstrap.css" rel="stylesheet" media="all">
 	<link href="lib/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" media="all"> 
